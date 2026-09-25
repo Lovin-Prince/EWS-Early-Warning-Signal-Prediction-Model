@@ -1,0 +1,154 @@
+{
+  "panel_rows": 151742,
+  "companies": 3000,
+  "n_features": 80,
+  "horizon_months": 6,
+  "splits_month_idx": {
+    "train": [
+      6,
+      26
+    ],
+    "val": [
+      33,
+      38
+    ],
+    "test": [
+      45,
+      49
+    ]
+  },
+  "positives_test": 272,
+  "rows_test": 12499,
+  "best_params": {
+    "min_samples_leaf": 20,
+    "max_leaf_nodes": 15,
+    "max_iter": 200,
+    "max_depth": 4,
+    "learning_rate": 0.03,
+    "l2_regularization": 0.0,
+    "class_weight": null
+  },
+  "walk_forward_cv_fire_rate_at_target_recall": 0.3877,
+  "target_recall": 0.8,
+  "high_priority_fire_rate": 0.1,
+  "comparison": [
+    {
+      "model": "Decision Tree (baseline)",
+      "pr_auc": 0.0427,
+      "roc_auc": 0.6257,
+      "base_rate": 0.0218,
+      "precision": 0.0291,
+      "recall": 0.7279,
+      "fire_rate": 0.5438,
+      "lift": 1.3386,
+      "threshold": 0.2748,
+      "tier1_precision": 0.0561,
+      "tier1_recall": 0.2537,
+      "tier1_fire_rate": 0.0985
+    },
+    {
+      "model": "GBDT - snapshot only (no history)",
+      "pr_auc": 0.0654,
+      "roc_auc": 0.7222,
+      "base_rate": 0.0218,
+      "precision": 0.0329,
+      "recall": 0.8015,
+      "fire_rate": 0.5295,
+      "lift": 1.5137,
+      "threshold": 0.0126,
+      "tier1_precision": 0.0744,
+      "tier1_recall": 0.3125,
+      "tier1_fire_rate": 0.0914
+    },
+    {
+      "model": "GBDT - default params",
+      "pr_auc": 0.0549,
+      "roc_auc": 0.7294,
+      "base_rate": 0.0218,
+      "precision": 0.0346,
+      "recall": 0.7978,
+      "fire_rate": 0.5012,
+      "lift": 1.5919,
+      "threshold": 0.0068,
+      "tier1_precision": 0.072,
+      "tier1_recall": 0.3309,
+      "tier1_fire_rate": 0.1
+    },
+    {
+      "model": "GBDT - time-series features (final)",
+      "pr_auc": 0.0595,
+      "roc_auc": 0.7207,
+      "base_rate": 0.0218,
+      "precision": 0.0346,
+      "recall": 0.7941,
+      "fire_rate": 0.4996,
+      "lift": 1.5896,
+      "threshold": 0.0138,
+      "tier1_precision": 0.0719,
+      "tier1_recall": 0.3272,
+      "tier1_fire_rate": 0.099
+    }
+  ],
+  "fire_rate_table": [
+    {
+      "fire_rate": 0.02,
+      "precision": 0.092,
+      "recall": 0.0846,
+      "lift": 4.2276
+    },
+    {
+      "fire_rate": 0.05,
+      "precision": 0.0848,
+      "recall": 0.1949,
+      "lift": 3.8967
+    },
+    {
+      "fire_rate": 0.1,
+      "precision": 0.0712,
+      "recall": 0.3272,
+      "lift": 3.2718
+    },
+    {
+      "fire_rate": 0.2,
+      "precision": 0.0524,
+      "recall": 0.4816,
+      "lift": 2.4079
+    },
+    {
+      "fire_rate": 0.3,
+      "precision": 0.0453,
+      "recall": 0.625,
+      "lift": 2.0832
+    },
+    {
+      "fire_rate": 0.4,
+      "precision": 0.0386,
+      "recall": 0.7096,
+      "lift": 1.7738
+    },
+    {
+      "fire_rate": 0.5,
+      "precision": 0.0346,
+      "recall": 0.7941,
+      "lift": 1.5881
+    },
+    {
+      "fire_rate": 0.6,
+      "precision": 0.0311,
+      "recall": 0.8566,
+      "lift": 1.4278
+    }
+  ],
+  "company_level_recall": 0.8713,
+  "median_lead_time_months": 5.0,
+  "top_features": {
+    "avg_days_beyond_terms": 0.0138,
+    "gst_filing_delay_days_mean6": 0.0116,
+    "gst_filing_delay_days_mean3": 0.01,
+    "avg_days_beyond_terms_mean3": 0.0068,
+    "red_flags_avg6": 0.0063,
+    "industry_code": 0.0063,
+    "gst_filing_delay_days_max6": 0.006,
+    "credit_utilisation_pct_max6": 0.0051
+  }
+}

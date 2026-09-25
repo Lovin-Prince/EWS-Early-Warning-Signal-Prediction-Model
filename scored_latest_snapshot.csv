@@ -1,0 +1,2419 @@
+company_id,industry,snapshot_date,p_default_6m,flagged,tier
+CMP101388,FMCG,2026-08-31,0.5212,True,High priority
+CMP100539,Pharma,2026-08-31,0.4944,True,High priority
+CMP100118,IT Services,2026-08-31,0.4101,True,High priority
+CMP102338,Logistics,2026-08-31,0.3927,True,High priority
+CMP100401,FMCG,2026-08-31,0.3131,True,High priority
+CMP100967,Manufacturing,2026-08-31,0.3007,True,High priority
+CMP102295,Manufacturing,2026-08-31,0.2981,True,High priority
+CMP101901,Manufacturing,2026-08-31,0.2974,True,High priority
+CMP102816,Retail,2026-08-31,0.2933,True,High priority
+CMP100989,Pharma,2026-08-31,0.2873,True,High priority
+CMP101445,Logistics,2026-08-31,0.2815,True,High priority
+CMP100591,IT Services,2026-08-31,0.2569,True,High priority
+CMP100299,Construction,2026-08-31,0.2548,True,High priority
+CMP102732,Logistics,2026-08-31,0.2497,True,High priority
+CMP100334,Manufacturing,2026-08-31,0.2341,True,High priority
+CMP102532,Construction,2026-08-31,0.2246,True,High priority
+CMP102548,Retail,2026-08-31,0.2243,True,High priority
+CMP101185,Pharma,2026-08-31,0.223,True,High priority
+CMP102172,IT Services,2026-08-31,0.2226,True,High priority
+CMP100566,Construction,2026-08-31,0.2226,True,High priority
+CMP101908,Pharma,2026-08-31,0.2173,True,High priority
+CMP101710,Pharma,2026-08-31,0.2044,True,High priority
+CMP101732,Construction,2026-08-31,0.1977,True,High priority
+CMP102514,Retail,2026-08-31,0.1946,True,High priority
+CMP101320,IT Services,2026-08-31,0.1927,True,High priority
+CMP102843,Retail,2026-08-31,0.1909,True,High priority
+CMP101377,Pharma,2026-08-31,0.1865,True,High priority
+CMP102113,Logistics,2026-08-31,0.1857,True,High priority
+CMP102828,Pharma,2026-08-31,0.1853,True,High priority
+CMP101326,IT Services,2026-08-31,0.185,True,High priority
+CMP101360,Construction,2026-08-31,0.1811,True,High priority
+CMP101929,IT Services,2026-08-31,0.1712,True,High priority
+CMP101118,Retail,2026-08-31,0.1667,True,High priority
+CMP100232,FMCG,2026-08-31,0.1588,True,High priority
+CMP102960,Pharma,2026-08-31,0.1559,True,High priority
+CMP100752,Retail,2026-08-31,0.1558,True,High priority
+CMP101421,IT Services,2026-08-31,0.1554,True,High priority
+CMP100590,FMCG,2026-08-31,0.1541,True,High priority
+CMP100144,IT Services,2026-08-31,0.1533,True,High priority
+CMP100231,IT Services,2026-08-31,0.1527,True,High priority
+CMP102135,Logistics,2026-08-31,0.1507,True,High priority
+CMP101362,Logistics,2026-08-31,0.1496,True,High priority
+CMP102757,Construction,2026-08-31,0.1491,True,High priority
+CMP100664,Retail,2026-08-31,0.1466,True,High priority
+CMP102052,IT Services,2026-08-31,0.1444,True,High priority
+CMP101387,Retail,2026-08-31,0.1426,True,High priority
+CMP101263,FMCG,2026-08-31,0.1426,True,High priority
+CMP100990,Logistics,2026-08-31,0.142,True,High priority
+CMP101721,Retail,2026-08-31,0.1412,True,High priority
+CMP101363,Manufacturing,2026-08-31,0.14,True,High priority
+CMP102163,IT Services,2026-08-31,0.1388,True,High priority
+CMP100712,Pharma,2026-08-31,0.137,True,High priority
+CMP100700,Retail,2026-08-31,0.1341,True,High priority
+CMP102800,FMCG,2026-08-31,0.134,True,High priority
+CMP100062,Logistics,2026-08-31,0.1337,True,High priority
+CMP101821,IT Services,2026-08-31,0.1326,True,High priority
+CMP100548,Construction,2026-08-31,0.1319,True,High priority
+CMP102677,Pharma,2026-08-31,0.1316,True,High priority
+CMP100830,Logistics,2026-08-31,0.1299,True,High priority
+CMP100786,Pharma,2026-08-31,0.1293,True,High priority
+CMP102151,Manufacturing,2026-08-31,0.1291,True,High priority
+CMP100263,Manufacturing,2026-08-31,0.1289,True,High priority
+CMP101180,Construction,2026-08-31,0.1258,True,High priority
+CMP102692,Pharma,2026-08-31,0.1251,True,High priority
+CMP100537,Manufacturing,2026-08-31,0.1242,True,High priority
+CMP101294,Retail,2026-08-31,0.1227,True,High priority
+CMP101455,Manufacturing,2026-08-31,0.1182,True,High priority
+CMP101053,Manufacturing,2026-08-31,0.118,True,High priority
+CMP101356,Logistics,2026-08-31,0.1168,True,High priority
+CMP101341,Pharma,2026-08-31,0.1163,True,High priority
+CMP102893,Logistics,2026-08-31,0.1161,True,High priority
+CMP102681,Pharma,2026-08-31,0.1153,True,High priority
+CMP102891,FMCG,2026-08-31,0.114,True,High priority
+CMP100769,Logistics,2026-08-31,0.1138,True,High priority
+CMP100330,Construction,2026-08-31,0.1134,True,High priority
+CMP102520,Manufacturing,2026-08-31,0.1129,True,High priority
+CMP102874,Manufacturing,2026-08-31,0.1114,True,High priority
+CMP102315,Retail,2026-08-31,0.111,True,High priority
+CMP101205,Manufacturing,2026-08-31,0.111,True,High priority
+CMP102804,Manufacturing,2026-08-31,0.1106,True,High priority
+CMP100572,IT Services,2026-08-31,0.1092,True,High priority
+CMP100955,FMCG,2026-08-31,0.1088,True,High priority
+CMP102585,IT Services,2026-08-31,0.1053,True,High priority
+CMP102165,Retail,2026-08-31,0.1038,True,High priority
+CMP101685,Retail,2026-08-31,0.1031,True,High priority
+CMP100266,Retail,2026-08-31,0.103,True,High priority
+CMP100475,Retail,2026-08-31,0.1025,True,High priority
+CMP102026,Pharma,2026-08-31,0.1024,True,High priority
+CMP102530,Logistics,2026-08-31,0.1016,True,High priority
+CMP102880,Manufacturing,2026-08-31,0.1013,True,High priority
+CMP100870,Construction,2026-08-31,0.1009,True,High priority
+CMP101238,Manufacturing,2026-08-31,0.1007,True,High priority
+CMP101284,FMCG,2026-08-31,0.1004,True,High priority
+CMP100859,IT Services,2026-08-31,0.0999,True,High priority
+CMP100269,Manufacturing,2026-08-31,0.0995,True,High priority
+CMP100966,FMCG,2026-08-31,0.0989,True,High priority
+CMP101260,Manufacturing,2026-08-31,0.0989,True,High priority
+CMP102866,IT Services,2026-08-31,0.0979,True,High priority
+CMP100710,FMCG,2026-08-31,0.0961,True,High priority
+CMP101141,Pharma,2026-08-31,0.0958,True,High priority
+CMP101924,Retail,2026-08-31,0.0944,True,High priority
+CMP101032,IT Services,2026-08-31,0.094,True,High priority
+CMP102991,Pharma,2026-08-31,0.0926,True,High priority
+CMP101018,Manufacturing,2026-08-31,0.0925,True,High priority
+CMP100393,Construction,2026-08-31,0.0914,True,High priority
+CMP102417,Logistics,2026-08-31,0.091,True,High priority
+CMP100731,Manufacturing,2026-08-31,0.0892,True,High priority
+CMP101768,Manufacturing,2026-08-31,0.0892,True,High priority
+CMP102296,Construction,2026-08-31,0.0887,True,High priority
+CMP102294,Retail,2026-08-31,0.0884,True,High priority
+CMP101535,IT Services,2026-08-31,0.0881,True,High priority
+CMP102142,Construction,2026-08-31,0.0876,True,High priority
+CMP101619,Manufacturing,2026-08-31,0.0875,True,High priority
+CMP102122,Retail,2026-08-31,0.0873,True,High priority
+CMP100655,Retail,2026-08-31,0.0868,True,High priority
+CMP100647,IT Services,2026-08-31,0.0862,True,High priority
+CMP101913,Logistics,2026-08-31,0.0851,True,High priority
+CMP101553,Retail,2026-08-31,0.0851,True,High priority
+CMP101894,Retail,2026-08-31,0.0845,True,High priority
+CMP100785,Retail,2026-08-31,0.0839,True,High priority
+CMP101783,Manufacturing,2026-08-31,0.0836,True,High priority
+CMP100251,Pharma,2026-08-31,0.0836,True,High priority
+CMP100116,Construction,2026-08-31,0.0833,True,High priority
+CMP102239,Logistics,2026-08-31,0.0821,True,High priority
+CMP101566,Manufacturing,2026-08-31,0.0818,True,High priority
+CMP101767,Manufacturing,2026-08-31,0.0814,True,High priority
+CMP101580,FMCG,2026-08-31,0.0808,True,High priority
+CMP100738,IT Services,2026-08-31,0.0788,True,High priority
+CMP101844,Manufacturing,2026-08-31,0.0781,True,High priority
+CMP100836,Construction,2026-08-31,0.078,True,High priority
+CMP101569,IT Services,2026-08-31,0.0779,True,High priority
+CMP102259,IT Services,2026-08-31,0.0768,True,High priority
+CMP102798,Construction,2026-08-31,0.0754,True,High priority
+CMP100565,Construction,2026-08-31,0.0751,True,High priority
+CMP100072,Pharma,2026-08-31,0.0748,True,High priority
+CMP102128,Manufacturing,2026-08-31,0.0747,True,High priority
+CMP100678,Manufacturing,2026-08-31,0.0747,True,High priority
+CMP101184,Manufacturing,2026-08-31,0.0744,True,High priority
+CMP100525,Retail,2026-08-31,0.074,True,High priority
+CMP102117,Manufacturing,2026-08-31,0.0738,True,High priority
+CMP101400,IT Services,2026-08-31,0.0737,True,High priority
+CMP100567,Manufacturing,2026-08-31,0.0735,True,High priority
+CMP100693,Retail,2026-08-31,0.0734,True,High priority
+CMP101056,FMCG,2026-08-31,0.0725,True,High priority
+CMP101746,Construction,2026-08-31,0.0723,True,High priority
+CMP101670,Retail,2026-08-31,0.0719,True,High priority
+CMP102538,Manufacturing,2026-08-31,0.0718,True,High priority
+CMP100372,Retail,2026-08-31,0.0714,True,High priority
+CMP101664,FMCG,2026-08-31,0.0707,True,High priority
+CMP100706,Pharma,2026-08-31,0.0699,True,High priority
+CMP100522,Manufacturing,2026-08-31,0.0699,True,High priority
+CMP100784,FMCG,2026-08-31,0.0693,True,High priority
+CMP100894,Construction,2026-08-31,0.069,True,High priority
+CMP100457,IT Services,2026-08-31,0.0686,True,High priority
+CMP101035,Construction,2026-08-31,0.0686,True,High priority
+CMP101216,Retail,2026-08-31,0.0685,True,High priority
+CMP100979,Manufacturing,2026-08-31,0.0683,True,High priority
+CMP101916,Construction,2026-08-31,0.0675,True,High priority
+CMP100248,IT Services,2026-08-31,0.0674,True,High priority
+CMP102475,Manufacturing,2026-08-31,0.0672,True,High priority
+CMP101140,Retail,2026-08-31,0.0671,True,High priority
+CMP101016,Construction,2026-08-31,0.0671,True,High priority
+CMP101349,Manufacturing,2026-08-31,0.0668,True,High priority
+CMP101068,Manufacturing,2026-08-31,0.0666,True,High priority
+CMP101462,Manufacturing,2026-08-31,0.0663,True,High priority
+CMP101382,Logistics,2026-08-31,0.0659,True,High priority
+CMP102626,Logistics,2026-08-31,0.0658,True,High priority
+CMP102092,Logistics,2026-08-31,0.0658,True,High priority
+CMP100622,FMCG,2026-08-31,0.0651,True,High priority
+CMP100775,Pharma,2026-08-31,0.065,True,High priority
+CMP102766,IT Services,2026-08-31,0.0649,True,High priority
+CMP101012,IT Services,2026-08-31,0.0648,True,High priority
+CMP101392,Manufacturing,2026-08-31,0.0646,True,High priority
+CMP101900,Logistics,2026-08-31,0.0641,True,High priority
+CMP102007,Manufacturing,2026-08-31,0.064,True,High priority
+CMP101008,Construction,2026-08-31,0.0639,True,High priority
+CMP101827,IT Services,2026-08-31,0.0632,True,High priority
+CMP100597,Logistics,2026-08-31,0.0631,True,High priority
+CMP102973,FMCG,2026-08-31,0.0631,True,High priority
+CMP101093,Retail,2026-08-31,0.0628,True,High priority
+CMP101270,FMCG,2026-08-31,0.0623,True,High priority
+CMP102652,Pharma,2026-08-31,0.0623,True,High priority
+CMP100068,Manufacturing,2026-08-31,0.0618,True,High priority
+CMP102588,IT Services,2026-08-31,0.0617,True,High priority
+CMP102001,IT Services,2026-08-31,0.0617,True,High priority
+CMP101447,Logistics,2026-08-31,0.0613,True,High priority
+CMP102098,Manufacturing,2026-08-31,0.0613,True,High priority
+CMP100855,IT Services,2026-08-31,0.061,True,High priority
+CMP102690,FMCG,2026-08-31,0.0608,True,High priority
+CMP100287,IT Services,2026-08-31,0.0605,True,High priority
+CMP102931,Manufacturing,2026-08-31,0.0604,True,High priority
+CMP101934,Construction,2026-08-31,0.0604,True,High priority
+CMP102352,Retail,2026-08-31,0.06,True,High priority
+CMP101672,Construction,2026-08-31,0.0596,True,High priority
+CMP102926,Construction,2026-08-31,0.0594,True,High priority
+CMP100716,Logistics,2026-08-31,0.0593,True,High priority
+CMP101986,Retail,2026-08-31,0.0592,True,High priority
+CMP101220,Manufacturing,2026-08-31,0.0585,True,High priority
+CMP101037,IT Services,2026-08-31,0.0584,True,High priority
+CMP100354,IT Services,2026-08-31,0.0584,True,High priority
+CMP102487,Pharma,2026-08-31,0.0581,True,High priority
+CMP100996,Logistics,2026-08-31,0.0575,True,High priority
+CMP100324,Pharma,2026-08-31,0.0574,True,High priority
+CMP100872,FMCG,2026-08-31,0.0573,True,High priority
+CMP101519,Manufacturing,2026-08-31,0.0573,True,High priority
+CMP102349,Manufacturing,2026-08-31,0.0572,True,High priority
+CMP100086,Construction,2026-08-31,0.0568,True,High priority
+CMP100256,Pharma,2026-08-31,0.0566,True,High priority
+CMP102119,Retail,2026-08-31,0.0563,True,High priority
+CMP102483,Retail,2026-08-31,0.0558,True,High priority
+CMP101833,Manufacturing,2026-08-31,0.0552,True,High priority
+CMP100864,Manufacturing,2026-08-31,0.0545,True,High priority
+CMP101245,Retail,2026-08-31,0.0542,True,High priority
+CMP101770,Logistics,2026-08-31,0.0541,True,Watch
+CMP100159,Construction,2026-08-31,0.0541,True,Watch
+CMP102647,Pharma,2026-08-31,0.0538,True,Watch
+CMP102801,IT Services,2026-08-31,0.0538,True,Watch
+CMP100950,Logistics,2026-08-31,0.0537,True,Watch
+CMP101522,FMCG,2026-08-31,0.0535,True,Watch
+CMP101866,FMCG,2026-08-31,0.0535,True,Watch
+CMP101131,IT Services,2026-08-31,0.0534,True,Watch
+CMP100230,Manufacturing,2026-08-31,0.0533,True,Watch
+CMP101288,IT Services,2026-08-31,0.0533,True,Watch
+CMP100610,Logistics,2026-08-31,0.0533,True,Watch
+CMP100431,Construction,2026-08-31,0.0529,True,Watch
+CMP100535,Manufacturing,2026-08-31,0.0527,True,Watch
+CMP100571,Pharma,2026-08-31,0.0525,True,Watch
+CMP101617,Logistics,2026-08-31,0.0525,True,Watch
+CMP100371,Retail,2026-08-31,0.0525,True,Watch
+CMP102671,IT Services,2026-08-31,0.0525,True,Watch
+CMP101181,Manufacturing,2026-08-31,0.0523,True,Watch
+CMP101197,Construction,2026-08-31,0.0522,True,Watch
+CMP102191,Logistics,2026-08-31,0.0519,True,Watch
+CMP101435,FMCG,2026-08-31,0.0517,True,Watch
+CMP102557,Retail,2026-08-31,0.0516,True,Watch
+CMP100810,Manufacturing,2026-08-31,0.0515,True,Watch
+CMP102895,Manufacturing,2026-08-31,0.0512,True,Watch
+CMP102202,FMCG,2026-08-31,0.0508,True,Watch
+CMP102948,FMCG,2026-08-31,0.0507,True,Watch
+CMP100333,Pharma,2026-08-31,0.0507,True,Watch
+CMP100198,Manufacturing,2026-08-31,0.0506,True,Watch
+CMP100467,FMCG,2026-08-31,0.0504,True,Watch
+CMP100097,Manufacturing,2026-08-31,0.0503,True,Watch
+CMP101486,FMCG,2026-08-31,0.0503,True,Watch
+CMP100857,Pharma,2026-08-31,0.0502,True,Watch
+CMP101506,Construction,2026-08-31,0.0501,True,Watch
+CMP102584,Manufacturing,2026-08-31,0.05,True,Watch
+CMP100925,Retail,2026-08-31,0.0499,True,Watch
+CMP100173,FMCG,2026-08-31,0.0497,True,Watch
+CMP102577,Pharma,2026-08-31,0.0496,True,Watch
+CMP102046,IT Services,2026-08-31,0.0495,True,Watch
+CMP100016,Logistics,2026-08-31,0.0492,True,Watch
+CMP100089,IT Services,2026-08-31,0.0492,True,Watch
+CMP101418,FMCG,2026-08-31,0.049,True,Watch
+CMP100730,Retail,2026-08-31,0.049,True,Watch
+CMP102714,Pharma,2026-08-31,0.049,True,Watch
+CMP101943,Manufacturing,2026-08-31,0.0489,True,Watch
+CMP101148,IT Services,2026-08-31,0.0488,True,Watch
+CMP100729,IT Services,2026-08-31,0.0488,True,Watch
+CMP100557,IT Services,2026-08-31,0.0488,True,Watch
+CMP102440,FMCG,2026-08-31,0.0488,True,Watch
+CMP101492,Construction,2026-08-31,0.0488,True,Watch
+CMP100246,Logistics,2026-08-31,0.0487,True,Watch
+CMP100600,IT Services,2026-08-31,0.0486,True,Watch
+CMP101935,Manufacturing,2026-08-31,0.0485,True,Watch
+CMP100932,IT Services,2026-08-31,0.0484,True,Watch
+CMP102248,IT Services,2026-08-31,0.0484,True,Watch
+CMP100501,FMCG,2026-08-31,0.0484,True,Watch
+CMP102032,Retail,2026-08-31,0.0483,True,Watch
+CMP100793,Manufacturing,2026-08-31,0.0483,True,Watch
+CMP100472,Manufacturing,2026-08-31,0.0482,True,Watch
+CMP100061,IT Services,2026-08-31,0.0482,True,Watch
+CMP100022,FMCG,2026-08-31,0.0482,True,Watch
+CMP102589,IT Services,2026-08-31,0.048,True,Watch
+CMP101773,FMCG,2026-08-31,0.0479,True,Watch
+CMP100736,Manufacturing,2026-08-31,0.0478,True,Watch
+CMP100142,FMCG,2026-08-31,0.0478,True,Watch
+CMP102030,Manufacturing,2026-08-31,0.0474,True,Watch
+CMP102482,Manufacturing,2026-08-31,0.0474,True,Watch
+CMP102969,Manufacturing,2026-08-31,0.0474,True,Watch
+CMP101804,Construction,2026-08-31,0.0473,True,Watch
+CMP102749,Manufacturing,2026-08-31,0.047,True,Watch
+CMP100024,Construction,2026-08-31,0.047,True,Watch
+CMP102779,Manufacturing,2026-08-31,0.0469,True,Watch
+CMP102910,Construction,2026-08-31,0.0467,True,Watch
+CMP100241,Pharma,2026-08-31,0.0467,True,Watch
+CMP100726,Retail,2026-08-31,0.0467,True,Watch
+CMP101327,Logistics,2026-08-31,0.0467,True,Watch
+CMP102710,FMCG,2026-08-31,0.0467,True,Watch
+CMP102574,Logistics,2026-08-31,0.0466,True,Watch
+CMP100362,Manufacturing,2026-08-31,0.0465,True,Watch
+CMP102036,FMCG,2026-08-31,0.0465,True,Watch
+CMP102069,IT Services,2026-08-31,0.0463,True,Watch
+CMP100207,Construction,2026-08-31,0.0462,True,Watch
+CMP101258,Logistics,2026-08-31,0.0461,True,Watch
+CMP101280,Retail,2026-08-31,0.0459,True,Watch
+CMP101669,Pharma,2026-08-31,0.0459,True,Watch
+CMP101001,IT Services,2026-08-31,0.0458,True,Watch
+CMP100147,Logistics,2026-08-31,0.0457,True,Watch
+CMP100720,IT Services,2026-08-31,0.0457,True,Watch
+CMP101728,Manufacturing,2026-08-31,0.0455,True,Watch
+CMP102433,Retail,2026-08-31,0.0455,True,Watch
+CMP102501,Construction,2026-08-31,0.0455,True,Watch
+CMP100268,Manufacturing,2026-08-31,0.0455,True,Watch
+CMP101084,FMCG,2026-08-31,0.0451,True,Watch
+CMP102791,Manufacturing,2026-08-31,0.0451,True,Watch
+CMP100411,Construction,2026-08-31,0.045,True,Watch
+CMP100988,Retail,2026-08-31,0.0448,True,Watch
+CMP102506,FMCG,2026-08-31,0.0447,True,Watch
+CMP102756,Pharma,2026-08-31,0.0447,True,Watch
+CMP102666,FMCG,2026-08-31,0.0447,True,Watch
+CMP101565,IT Services,2026-08-31,0.0446,True,Watch
+CMP102195,Pharma,2026-08-31,0.0446,True,Watch
+CMP101483,Retail,2026-08-31,0.0445,True,Watch
+CMP102360,Pharma,2026-08-31,0.0444,True,Watch
+CMP102593,Manufacturing,2026-08-31,0.0443,True,Watch
+CMP100468,Manufacturing,2026-08-31,0.0443,True,Watch
+CMP102609,Retail,2026-08-31,0.0442,True,Watch
+CMP101869,Pharma,2026-08-31,0.0442,True,Watch
+CMP100228,Logistics,2026-08-31,0.044,True,Watch
+CMP100818,Logistics,2026-08-31,0.044,True,Watch
+CMP100804,Manufacturing,2026-08-31,0.0439,True,Watch
+CMP101152,Manufacturing,2026-08-31,0.0438,True,Watch
+CMP102265,Manufacturing,2026-08-31,0.0437,True,Watch
+CMP102229,Construction,2026-08-31,0.0434,True,Watch
+CMP100076,Retail,2026-08-31,0.0432,True,Watch
+CMP100264,FMCG,2026-08-31,0.0431,True,Watch
+CMP101555,Construction,2026-08-31,0.0431,True,Watch
+CMP100004,Manufacturing,2026-08-31,0.0428,True,Watch
+CMP100789,Logistics,2026-08-31,0.0427,True,Watch
+CMP101896,Construction,2026-08-31,0.0426,True,Watch
+CMP102636,IT Services,2026-08-31,0.0426,True,Watch
+CMP102150,Construction,2026-08-31,0.0425,True,Watch
+CMP100676,FMCG,2026-08-31,0.0425,True,Watch
+CMP102242,Retail,2026-08-31,0.0424,True,Watch
+CMP102522,Retail,2026-08-31,0.0423,True,Watch
+CMP100309,Manufacturing,2026-08-31,0.0421,True,Watch
+CMP101520,Retail,2026-08-31,0.0419,True,Watch
+CMP102864,IT Services,2026-08-31,0.0418,True,Watch
+CMP101425,IT Services,2026-08-31,0.0418,True,Watch
+CMP100470,IT Services,2026-08-31,0.0418,True,Watch
+CMP102745,Pharma,2026-08-31,0.0417,True,Watch
+CMP102042,Logistics,2026-08-31,0.0413,True,Watch
+CMP101228,FMCG,2026-08-31,0.041,True,Watch
+CMP100795,Retail,2026-08-31,0.0409,True,Watch
+CMP101676,Construction,2026-08-31,0.0409,True,Watch
+CMP101203,Construction,2026-08-31,0.0408,True,Watch
+CMP102792,Construction,2026-08-31,0.0408,True,Watch
+CMP101780,Manufacturing,2026-08-31,0.0408,True,Watch
+CMP102856,Construction,2026-08-31,0.0406,True,Watch
+CMP101047,Construction,2026-08-31,0.0406,True,Watch
+CMP101544,IT Services,2026-08-31,0.0406,True,Watch
+CMP101666,Pharma,2026-08-31,0.0405,True,Watch
+CMP100296,FMCG,2026-08-31,0.0405,True,Watch
+CMP101724,IT Services,2026-08-31,0.0405,True,Watch
+CMP100420,Construction,2026-08-31,0.0404,True,Watch
+CMP101644,Manufacturing,2026-08-31,0.0403,True,Watch
+CMP101907,Manufacturing,2026-08-31,0.0403,True,Watch
+CMP100059,Manufacturing,2026-08-31,0.0402,True,Watch
+CMP102292,Logistics,2026-08-31,0.0402,True,Watch
+CMP102261,FMCG,2026-08-31,0.0402,True,Watch
+CMP102738,Construction,2026-08-31,0.04,True,Watch
+CMP100222,Construction,2026-08-31,0.0399,True,Watch
+CMP101089,IT Services,2026-08-31,0.0399,True,Watch
+CMP100172,Retail,2026-08-31,0.0399,True,Watch
+CMP100255,Construction,2026-08-31,0.0398,True,Watch
+CMP100167,Pharma,2026-08-31,0.0396,True,Watch
+CMP100909,Retail,2026-08-31,0.0395,True,Watch
+CMP100770,Retail,2026-08-31,0.0395,True,Watch
+CMP102916,Retail,2026-08-31,0.0394,True,Watch
+CMP101808,IT Services,2026-08-31,0.0394,True,Watch
+CMP100220,Retail,2026-08-31,0.0392,True,Watch
+CMP101342,IT Services,2026-08-31,0.0391,True,Watch
+CMP102928,Retail,2026-08-31,0.0389,True,Watch
+CMP100055,Pharma,2026-08-31,0.0389,True,Watch
+CMP101855,FMCG,2026-08-31,0.0388,True,Watch
+CMP101295,IT Services,2026-08-31,0.0388,True,Watch
+CMP101457,IT Services,2026-08-31,0.0388,True,Watch
+CMP100965,IT Services,2026-08-31,0.0388,True,Watch
+CMP102466,Pharma,2026-08-31,0.0387,True,Watch
+CMP100107,Retail,2026-08-31,0.0387,True,Watch
+CMP102067,FMCG,2026-08-31,0.0384,True,Watch
+CMP102437,Construction,2026-08-31,0.0383,True,Watch
+CMP101087,Construction,2026-08-31,0.0383,True,Watch
+CMP100788,Pharma,2026-08-31,0.038,True,Watch
+CMP100878,Logistics,2026-08-31,0.038,True,Watch
+CMP102397,Manufacturing,2026-08-31,0.038,True,Watch
+CMP102962,Manufacturing,2026-08-31,0.0378,True,Watch
+CMP101965,Manufacturing,2026-08-31,0.0377,True,Watch
+CMP100673,Construction,2026-08-31,0.0376,True,Watch
+CMP102753,Manufacturing,2026-08-31,0.0376,True,Watch
+CMP100559,IT Services,2026-08-31,0.0375,True,Watch
+CMP100683,IT Services,2026-08-31,0.0374,True,Watch
+CMP100839,IT Services,2026-08-31,0.0374,True,Watch
+CMP100737,Retail,2026-08-31,0.0374,True,Watch
+CMP100756,Retail,2026-08-31,0.0373,True,Watch
+CMP102116,Retail,2026-08-31,0.0372,True,Watch
+CMP102394,Logistics,2026-08-31,0.0371,True,Watch
+CMP101879,Logistics,2026-08-31,0.0371,True,Watch
+CMP100367,Construction,2026-08-31,0.0369,True,Watch
+CMP101019,IT Services,2026-08-31,0.0369,True,Watch
+CMP101973,Retail,2026-08-31,0.0369,True,Watch
+CMP101004,Logistics,2026-08-31,0.0366,True,Watch
+CMP102723,IT Services,2026-08-31,0.0365,True,Watch
+CMP102125,IT Services,2026-08-31,0.0363,True,Watch
+CMP101880,IT Services,2026-08-31,0.0362,True,Watch
+CMP101779,IT Services,2026-08-31,0.0362,True,Watch
+CMP101847,Construction,2026-08-31,0.0361,True,Watch
+CMP102820,Retail,2026-08-31,0.0361,True,Watch
+CMP102053,Pharma,2026-08-31,0.036,True,Watch
+CMP100708,IT Services,2026-08-31,0.0357,True,Watch
+CMP102952,Manufacturing,2026-08-31,0.0356,True,Watch
+CMP100617,Retail,2026-08-31,0.0355,True,Watch
+CMP102901,FMCG,2026-08-31,0.0354,True,Watch
+CMP101469,Manufacturing,2026-08-31,0.0354,True,Watch
+CMP102102,Pharma,2026-08-31,0.0353,True,Watch
+CMP102659,Retail,2026-08-31,0.0351,True,Watch
+CMP100471,IT Services,2026-08-31,0.0349,True,Watch
+CMP100747,IT Services,2026-08-31,0.0349,True,Watch
+CMP100316,IT Services,2026-08-31,0.0348,True,Watch
+CMP100448,Manufacturing,2026-08-31,0.0348,True,Watch
+CMP102760,Construction,2026-08-31,0.0347,True,Watch
+CMP102806,Retail,2026-08-31,0.0345,True,Watch
+CMP101311,FMCG,2026-08-31,0.0344,True,Watch
+CMP102788,FMCG,2026-08-31,0.0344,True,Watch
+CMP101080,Retail,2026-08-31,0.0343,True,Watch
+CMP102270,Logistics,2026-08-31,0.0343,True,Watch
+CMP102917,Pharma,2026-08-31,0.0343,True,Watch
+CMP100476,IT Services,2026-08-31,0.0343,True,Watch
+CMP100047,Retail,2026-08-31,0.0342,True,Watch
+CMP100542,Pharma,2026-08-31,0.0341,True,Watch
+CMP101021,Construction,2026-08-31,0.0341,True,Watch
+CMP101243,Manufacturing,2026-08-31,0.0341,True,Watch
+CMP102115,FMCG,2026-08-31,0.0339,True,Watch
+CMP102389,Manufacturing,2026-08-31,0.0339,True,Watch
+CMP102351,Pharma,2026-08-31,0.0339,True,Watch
+CMP102972,Manufacturing,2026-08-31,0.0339,True,Watch
+CMP102605,Manufacturing,2026-08-31,0.0338,True,Watch
+CMP102850,IT Services,2026-08-31,0.0338,True,Watch
+CMP101398,Logistics,2026-08-31,0.0338,True,Watch
+CMP101604,Retail,2026-08-31,0.0337,True,Watch
+CMP101229,Manufacturing,2026-08-31,0.0336,True,Watch
+CMP102598,FMCG,2026-08-31,0.0336,True,Watch
+CMP101638,Retail,2026-08-31,0.0336,True,Watch
+CMP101836,Manufacturing,2026-08-31,0.0335,True,Watch
+CMP101225,FMCG,2026-08-31,0.0334,True,Watch
+CMP100120,Logistics,2026-08-31,0.0333,True,Watch
+CMP102077,Manufacturing,2026-08-31,0.0333,True,Watch
+CMP102537,IT Services,2026-08-31,0.0332,True,Watch
+CMP100356,Construction,2026-08-31,0.0332,True,Watch
+CMP101701,FMCG,2026-08-31,0.0331,True,Watch
+CMP101771,Construction,2026-08-31,0.0331,True,Watch
+CMP100933,Construction,2026-08-31,0.033,True,Watch
+CMP102845,Logistics,2026-08-31,0.0329,True,Watch
+CMP102291,Construction,2026-08-31,0.0329,True,Watch
+CMP100727,Manufacturing,2026-08-31,0.0329,True,Watch
+CMP102679,Retail,2026-08-31,0.0329,True,Watch
+CMP101596,Manufacturing,2026-08-31,0.0329,True,Watch
+CMP101214,Retail,2026-08-31,0.0329,True,Watch
+CMP101838,Construction,2026-08-31,0.0328,True,Watch
+CMP100506,Retail,2026-08-31,0.0327,True,Watch
+CMP100040,IT Services,2026-08-31,0.0326,True,Watch
+CMP101227,IT Services,2026-08-31,0.0325,True,Watch
+CMP101985,FMCG,2026-08-31,0.0325,True,Watch
+CMP101922,IT Services,2026-08-31,0.0325,True,Watch
+CMP100553,FMCG,2026-08-31,0.0325,True,Watch
+CMP100807,Manufacturing,2026-08-31,0.0324,True,Watch
+CMP102126,Retail,2026-08-31,0.0324,True,Watch
+CMP101485,Manufacturing,2026-08-31,0.0323,True,Watch
+CMP100337,Construction,2026-08-31,0.0322,True,Watch
+CMP101784,Retail,2026-08-31,0.0321,True,Watch
+CMP100243,Logistics,2026-08-31,0.0321,True,Watch
+CMP102718,Manufacturing,2026-08-31,0.0321,True,Watch
+CMP102276,Logistics,2026-08-31,0.0321,True,Watch
+CMP102774,Construction,2026-08-31,0.032,True,Watch
+CMP102157,Retail,2026-08-31,0.032,True,Watch
+CMP102192,Construction,2026-08-31,0.0319,True,Watch
+CMP102362,IT Services,2026-08-31,0.0319,True,Watch
+CMP102451,Construction,2026-08-31,0.0316,True,Watch
+CMP101366,Manufacturing,2026-08-31,0.0314,True,Watch
+CMP100272,Manufacturing,2026-08-31,0.0314,True,Watch
+CMP102118,Manufacturing,2026-08-31,0.0314,True,Watch
+CMP102937,Manufacturing,2026-08-31,0.0312,True,Watch
+CMP100133,Retail,2026-08-31,0.0312,True,Watch
+CMP100294,Pharma,2026-08-31,0.0312,True,Watch
+CMP101646,Retail,2026-08-31,0.031,True,Watch
+CMP102992,Retail,2026-08-31,0.031,True,Watch
+CMP102426,Manufacturing,2026-08-31,0.031,True,Watch
+CMP101801,Logistics,2026-08-31,0.031,True,Watch
+CMP100632,Manufacturing,2026-08-31,0.0309,True,Watch
+CMP100580,IT Services,2026-08-31,0.0309,True,Watch
+CMP100755,Retail,2026-08-31,0.0309,True,Watch
+CMP101782,Retail,2026-08-31,0.0308,True,Watch
+CMP101941,IT Services,2026-08-31,0.0308,True,Watch
+CMP102563,IT Services,2026-08-31,0.0308,True,Watch
+CMP101609,IT Services,2026-08-31,0.0307,True,Watch
+CMP101859,Retail,2026-08-31,0.0307,True,Watch
+CMP101608,IT Services,2026-08-31,0.0307,True,Watch
+CMP102203,Manufacturing,2026-08-31,0.0307,True,Watch
+CMP102152,Construction,2026-08-31,0.0306,True,Watch
+CMP101291,Construction,2026-08-31,0.0306,True,Watch
+CMP100626,Pharma,2026-08-31,0.0305,True,Watch
+CMP101623,Manufacturing,2026-08-31,0.0305,True,Watch
+CMP101217,Logistics,2026-08-31,0.0304,True,Watch
+CMP100150,Pharma,2026-08-31,0.0304,True,Watch
+CMP102034,Manufacturing,2026-08-31,0.0304,True,Watch
+CMP100461,Manufacturing,2026-08-31,0.0303,True,Watch
+CMP101145,Retail,2026-08-31,0.0303,True,Watch
+CMP101917,Construction,2026-08-31,0.0303,True,Watch
+CMP102879,Manufacturing,2026-08-31,0.0303,True,Watch
+CMP102460,Pharma,2026-08-31,0.0302,True,Watch
+CMP102324,Retail,2026-08-31,0.0302,True,Watch
+CMP101835,Manufacturing,2026-08-31,0.0302,True,Watch
+CMP102476,Manufacturing,2026-08-31,0.0302,True,Watch
+CMP101147,Pharma,2026-08-31,0.0301,True,Watch
+CMP101117,Pharma,2026-08-31,0.0301,True,Watch
+CMP100657,Retail,2026-08-31,0.0298,True,Watch
+CMP101209,IT Services,2026-08-31,0.0298,True,Watch
+CMP101875,Pharma,2026-08-31,0.0298,True,Watch
+CMP102977,Construction,2026-08-31,0.0298,True,Watch
+CMP100696,Construction,2026-08-31,0.0297,True,Watch
+CMP102420,Manufacturing,2026-08-31,0.0297,True,Watch
+CMP100405,Pharma,2026-08-31,0.0296,True,Watch
+CMP102043,FMCG,2026-08-31,0.0296,True,Watch
+CMP102208,Manufacturing,2026-08-31,0.0296,True,Watch
+CMP100534,Manufacturing,2026-08-31,0.0296,True,Watch
+CMP102280,IT Services,2026-08-31,0.0296,True,Watch
+CMP102365,Construction,2026-08-31,0.0295,True,Watch
+CMP102369,Logistics,2026-08-31,0.0295,True,Watch
+CMP101051,Manufacturing,2026-08-31,0.0295,True,Watch
+CMP102436,Logistics,2026-08-31,0.0294,True,Watch
+CMP101540,Pharma,2026-08-31,0.0294,True,Watch
+CMP102226,Construction,2026-08-31,0.0294,True,Watch
+CMP101998,Pharma,2026-08-31,0.0293,True,Watch
+CMP102865,Manufacturing,2026-08-31,0.0293,True,Watch
+CMP102744,Retail,2026-08-31,0.0293,True,Watch
+CMP102298,Manufacturing,2026-08-31,0.0293,True,Watch
+CMP100926,Manufacturing,2026-08-31,0.0293,True,Watch
+CMP101442,Manufacturing,2026-08-31,0.0293,True,Watch
+CMP102941,Retail,2026-08-31,0.0292,True,Watch
+CMP102583,Manufacturing,2026-08-31,0.0292,True,Watch
+CMP100652,Construction,2026-08-31,0.0292,True,Watch
+CMP102507,FMCG,2026-08-31,0.0292,True,Watch
+CMP102645,FMCG,2026-08-31,0.029,True,Watch
+CMP102615,IT Services,2026-08-31,0.029,True,Watch
+CMP100094,Retail,2026-08-31,0.029,True,Watch
+CMP102423,Manufacturing,2026-08-31,0.029,True,Watch
+CMP100215,Construction,2026-08-31,0.0289,True,Watch
+CMP101841,Logistics,2026-08-31,0.0288,True,Watch
+CMP102283,Construction,2026-08-31,0.0288,True,Watch
+CMP101240,Pharma,2026-08-31,0.0288,True,Watch
+CMP100699,Retail,2026-08-31,0.0288,True,Watch
+CMP100540,FMCG,2026-08-31,0.0288,True,Watch
+CMP100936,FMCG,2026-08-31,0.0287,True,Watch
+CMP102953,FMCG,2026-08-31,0.0287,True,Watch
+CMP102023,Retail,2026-08-31,0.0287,True,Watch
+CMP102653,Construction,2026-08-31,0.0285,True,Watch
+CMP101660,Manufacturing,2026-08-31,0.0285,True,Watch
+CMP102361,Manufacturing,2026-08-31,0.0284,True,Watch
+CMP101210,Construction,2026-08-31,0.0284,True,Watch
+CMP100303,IT Services,2026-08-31,0.0284,True,Watch
+CMP100777,Manufacturing,2026-08-31,0.0284,True,Watch
+CMP102533,Manufacturing,2026-08-31,0.0283,True,Watch
+CMP101448,Logistics,2026-08-31,0.0283,True,Watch
+CMP100514,Retail,2026-08-31,0.0283,True,Watch
+CMP101292,Logistics,2026-08-31,0.0282,True,Watch
+CMP100763,Manufacturing,2026-08-31,0.0282,True,Watch
+CMP102631,IT Services,2026-08-31,0.0281,True,Watch
+CMP102961,FMCG,2026-08-31,0.028,True,Watch
+CMP101040,Manufacturing,2026-08-31,0.0279,True,Watch
+CMP100217,Manufacturing,2026-08-31,0.0278,True,Watch
+CMP100740,Manufacturing,2026-08-31,0.0277,True,Watch
+CMP101464,Construction,2026-08-31,0.0277,True,Watch
+CMP102654,IT Services,2026-08-31,0.0276,True,Watch
+CMP100346,FMCG,2026-08-31,0.0276,True,Watch
+CMP102146,Manufacturing,2026-08-31,0.0276,True,Watch
+CMP100373,Retail,2026-08-31,0.0275,True,Watch
+CMP102725,Construction,2026-08-31,0.0275,True,Watch
+CMP100930,Retail,2026-08-31,0.0275,True,Watch
+CMP100139,Manufacturing,2026-08-31,0.0275,True,Watch
+CMP101628,Manufacturing,2026-08-31,0.0275,True,Watch
+CMP100021,Retail,2026-08-31,0.0275,True,Watch
+CMP100326,Pharma,2026-08-31,0.0275,True,Watch
+CMP102777,IT Services,2026-08-31,0.0274,True,Watch
+CMP102915,Manufacturing,2026-08-31,0.0274,True,Watch
+CMP101142,Pharma,2026-08-31,0.0274,True,Watch
+CMP100087,IT Services,2026-08-31,0.0274,True,Watch
+CMP101539,IT Services,2026-08-31,0.0273,True,Watch
+CMP101329,Manufacturing,2026-08-31,0.0273,True,Watch
+CMP102147,FMCG,2026-08-31,0.0273,True,Watch
+CMP100057,Logistics,2026-08-31,0.0272,True,Watch
+CMP100883,IT Services,2026-08-31,0.0272,True,Watch
+CMP102687,Construction,2026-08-31,0.0272,True,Watch
+CMP102672,IT Services,2026-08-31,0.0271,True,Watch
+CMP100800,Construction,2026-08-31,0.027,True,Watch
+CMP102614,Retail,2026-08-31,0.0269,True,Watch
+CMP102951,Construction,2026-08-31,0.0269,True,Watch
+CMP100510,Manufacturing,2026-08-31,0.0269,True,Watch
+CMP101385,Manufacturing,2026-08-31,0.0268,True,Watch
+CMP100504,Logistics,2026-08-31,0.0267,True,Watch
+CMP100749,Pharma,2026-08-31,0.0267,True,Watch
+CMP102575,Logistics,2026-08-31,0.0267,True,Watch
+CMP101812,Construction,2026-08-31,0.0267,True,Watch
+CMP100413,FMCG,2026-08-31,0.0266,True,Watch
+CMP101977,FMCG,2026-08-31,0.0266,True,Watch
+CMP100875,FMCG,2026-08-31,0.0266,True,Watch
+CMP101177,Retail,2026-08-31,0.0266,True,Watch
+CMP100952,Retail,2026-08-31,0.0266,True,Watch
+CMP101397,FMCG,2026-08-31,0.0265,True,Watch
+CMP100186,IT Services,2026-08-31,0.0265,True,Watch
+CMP101027,Retail,2026-08-31,0.0265,True,Watch
+CMP101091,Construction,2026-08-31,0.0265,True,Watch
+CMP100276,Retail,2026-08-31,0.0265,True,Watch
+CMP101733,Retail,2026-08-31,0.0265,True,Watch
+CMP100081,IT Services,2026-08-31,0.0264,True,Watch
+CMP102123,Manufacturing,2026-08-31,0.0264,True,Watch
+CMP101126,IT Services,2026-08-31,0.0264,True,Watch
+CMP100117,Construction,2026-08-31,0.0264,True,Watch
+CMP101643,Manufacturing,2026-08-31,0.0263,True,Watch
+CMP101386,Construction,2026-08-31,0.0263,True,Watch
+CMP102704,Construction,2026-08-31,0.0263,True,Watch
+CMP100794,Manufacturing,2026-08-31,0.0263,True,Watch
+CMP100009,IT Services,2026-08-31,0.0262,True,Watch
+CMP102906,FMCG,2026-08-31,0.0262,True,Watch
+CMP102222,IT Services,2026-08-31,0.0262,True,Watch
+CMP100994,FMCG,2026-08-31,0.0262,True,Watch
+CMP101689,IT Services,2026-08-31,0.0262,True,Watch
+CMP101905,IT Services,2026-08-31,0.0262,True,Watch
+CMP100520,Pharma,2026-08-31,0.0261,True,Watch
+CMP102784,Manufacturing,2026-08-31,0.026,True,Watch
+CMP101404,Manufacturing,2026-08-31,0.026,True,Watch
+CMP101063,Logistics,2026-08-31,0.026,True,Watch
+CMP102510,IT Services,2026-08-31,0.026,True,Watch
+CMP102578,Manufacturing,2026-08-31,0.0259,True,Watch
+CMP102625,IT Services,2026-08-31,0.0259,True,Watch
+CMP102175,Logistics,2026-08-31,0.0259,True,Watch
+CMP101667,Retail,2026-08-31,0.0259,True,Watch
+CMP100601,Construction,2026-08-31,0.0258,True,Watch
+CMP102201,FMCG,2026-08-31,0.0258,True,Watch
+CMP100921,Pharma,2026-08-31,0.0258,True,Watch
+CMP101235,Manufacturing,2026-08-31,0.0257,True,Watch
+CMP102531,Logistics,2026-08-31,0.0257,True,Watch
+CMP102545,IT Services,2026-08-31,0.0257,True,Watch
+CMP101345,Logistics,2026-08-31,0.0256,True,Watch
+CMP100378,IT Services,2026-08-31,0.0256,True,Watch
+CMP102443,Logistics,2026-08-31,0.0256,True,Watch
+CMP102839,Manufacturing,2026-08-31,0.0256,True,Watch
+CMP100805,Manufacturing,2026-08-31,0.0255,True,Watch
+CMP102207,IT Services,2026-08-31,0.0255,True,Watch
+CMP102869,Manufacturing,2026-08-31,0.0254,True,Watch
+CMP100851,Manufacturing,2026-08-31,0.0254,True,Watch
+CMP101651,Retail,2026-08-31,0.0254,True,Watch
+CMP102486,Construction,2026-08-31,0.0254,True,Watch
+CMP101795,Retail,2026-08-31,0.0253,True,Watch
+CMP100344,Pharma,2026-08-31,0.0252,True,Watch
+CMP102998,FMCG,2026-08-31,0.0251,True,Watch
+CMP101911,Manufacturing,2026-08-31,0.0251,True,Watch
+CMP102970,IT Services,2026-08-31,0.025,True,Watch
+CMP100895,FMCG,2026-08-31,0.025,True,Watch
+CMP101116,Manufacturing,2026-08-31,0.025,True,Watch
+CMP101691,FMCG,2026-08-31,0.025,True,Watch
+CMP101300,Manufacturing,2026-08-31,0.025,True,Watch
+CMP100357,Pharma,2026-08-31,0.025,True,Watch
+CMP102932,Logistics,2026-08-31,0.025,True,Watch
+CMP101073,FMCG,2026-08-31,0.0249,True,Watch
+CMP101531,Manufacturing,2026-08-31,0.0249,True,Watch
+CMP102814,Manufacturing,2026-08-31,0.0249,True,Watch
+CMP102193,Manufacturing,2026-08-31,0.0248,True,Watch
+CMP100773,Pharma,2026-08-31,0.0248,True,Watch
+CMP101788,Pharma,2026-08-31,0.0248,True,Watch
+CMP102166,FMCG,2026-08-31,0.0247,True,Watch
+CMP102858,Construction,2026-08-31,0.0247,True,Watch
+CMP100184,Construction,2026-08-31,0.0247,True,Watch
+CMP101843,FMCG,2026-08-31,0.0247,True,Watch
+CMP102686,Retail,2026-08-31,0.0246,True,Watch
+CMP102211,IT Services,2026-08-31,0.0246,True,Watch
+CMP100010,IT Services,2026-08-31,0.0246,True,Watch
+CMP102171,Retail,2026-08-31,0.0245,True,Watch
+CMP101133,Construction,2026-08-31,0.0245,True,Watch
+CMP102156,Manufacturing,2026-08-31,0.0245,True,Watch
+CMP100902,Manufacturing,2026-08-31,0.0245,True,Watch
+CMP100961,IT Services,2026-08-31,0.0244,True,Watch
+CMP102430,Pharma,2026-08-31,0.0244,True,Watch
+CMP101960,Logistics,2026-08-31,0.0243,True,Watch
+CMP101498,Retail,2026-08-31,0.0242,True,Watch
+CMP102331,IT Services,2026-08-31,0.0242,True,Watch
+CMP100885,IT Services,2026-08-31,0.0242,True,Watch
+CMP102884,Logistics,2026-08-31,0.0242,True,Watch
+CMP101816,Construction,2026-08-31,0.0242,True,Watch
+CMP101809,Manufacturing,2026-08-31,0.0241,True,Watch
+CMP100154,Manufacturing,2026-08-31,0.0241,True,Watch
+CMP100606,Pharma,2026-08-31,0.0241,True,Watch
+CMP101532,Logistics,2026-08-31,0.0241,True,Watch
+CMP101202,Pharma,2026-08-31,0.024,True,Watch
+CMP102459,Logistics,2026-08-31,0.024,True,Watch
+CMP101075,Retail,2026-08-31,0.0239,True,Watch
+CMP101409,Construction,2026-08-31,0.0239,True,Watch
+CMP102404,Pharma,2026-08-31,0.0238,True,Watch
+CMP100806,Construction,2026-08-31,0.0238,True,Watch
+CMP100254,Retail,2026-08-31,0.0238,True,Watch
+CMP102090,Retail,2026-08-31,0.0238,True,Watch
+CMP102060,FMCG,2026-08-31,0.0237,True,Watch
+CMP100762,Manufacturing,2026-08-31,0.0237,True,Watch
+CMP101852,IT Services,2026-08-31,0.0237,True,Watch
+CMP102826,IT Services,2026-08-31,0.0236,True,Watch
+CMP100862,Pharma,2026-08-31,0.0236,True,Watch
+CMP100397,Retail,2026-08-31,0.0236,True,Watch
+CMP102662,IT Services,2026-08-31,0.0236,True,Watch
+CMP100660,Retail,2026-08-31,0.0236,True,Watch
+CMP101957,Manufacturing,2026-08-31,0.0235,True,Watch
+CMP100416,Manufacturing,2026-08-31,0.0235,True,Watch
+CMP100157,Construction,2026-08-31,0.0235,True,Watch
+CMP102223,Manufacturing,2026-08-31,0.0235,True,Watch
+CMP102811,Pharma,2026-08-31,0.0234,True,Watch
+CMP102982,Manufacturing,2026-08-31,0.0234,True,Watch
+CMP101516,Manufacturing,2026-08-31,0.0234,True,Watch
+CMP102318,IT Services,2026-08-31,0.0234,True,Watch
+CMP102095,Retail,2026-08-31,0.0233,True,Watch
+CMP100012,Construction,2026-08-31,0.0232,True,Watch
+CMP100218,FMCG,2026-08-31,0.0232,True,Watch
+CMP100532,IT Services,2026-08-31,0.0231,True,Watch
+CMP100649,Manufacturing,2026-08-31,0.0231,True,Watch
+CMP102594,Retail,2026-08-31,0.0231,True,Watch
+CMP100905,Construction,2026-08-31,0.0231,True,Watch
+CMP100592,Retail,2026-08-31,0.023,True,Watch
+CMP101603,Pharma,2026-08-31,0.023,True,Watch
+CMP100100,FMCG,2026-08-31,0.023,True,Watch
+CMP101545,IT Services,2026-08-31,0.023,True,Watch
+CMP100991,Construction,2026-08-31,0.023,True,Watch
+CMP100338,Manufacturing,2026-08-31,0.023,True,Watch
+CMP101769,Pharma,2026-08-31,0.023,True,Watch
+CMP101378,Logistics,2026-08-31,0.023,True,Watch
+CMP100347,Retail,2026-08-31,0.0229,True,Watch
+CMP101119,FMCG,2026-08-31,0.0229,True,Watch
+CMP102688,Retail,2026-08-31,0.0228,True,Watch
+CMP102627,Retail,2026-08-31,0.0228,True,Watch
+CMP102214,FMCG,2026-08-31,0.0228,True,Watch
+CMP100452,Construction,2026-08-31,0.0227,True,Watch
+CMP102549,Retail,2026-08-31,0.0227,True,Watch
+CMP100983,IT Services,2026-08-31,0.0227,True,Watch
+CMP100999,Retail,2026-08-31,0.0226,True,Watch
+CMP102228,Manufacturing,2026-08-31,0.0226,True,Watch
+CMP101495,Logistics,2026-08-31,0.0225,True,Watch
+CMP102323,Manufacturing,2026-08-31,0.0225,True,Watch
+CMP102842,IT Services,2026-08-31,0.0225,True,Watch
+CMP100315,Retail,2026-08-31,0.0225,True,Watch
+CMP102234,Construction,2026-08-31,0.0225,True,Watch
+CMP101277,Manufacturing,2026-08-31,0.0224,True,Watch
+CMP101170,IT Services,2026-08-31,0.0224,True,Watch
+CMP102702,IT Services,2026-08-31,0.0224,True,Watch
+CMP102085,Retail,2026-08-31,0.0224,True,Watch
+CMP100249,IT Services,2026-08-31,0.0223,True,Watch
+CMP102922,Manufacturing,2026-08-31,0.0223,True,Watch
+CMP100575,IT Services,2026-08-31,0.0223,True,Watch
+CMP100882,FMCG,2026-08-31,0.0223,True,Watch
+CMP101081,FMCG,2026-08-31,0.0223,True,Watch
+CMP100838,IT Services,2026-08-31,0.0222,True,Watch
+CMP101868,Logistics,2026-08-31,0.0222,True,Watch
+CMP102837,Retail,2026-08-31,0.0222,True,Watch
+CMP102016,Retail,2026-08-31,0.0222,True,Watch
+CMP102733,Retail,2026-08-31,0.0221,True,Watch
+CMP102832,IT Services,2026-08-31,0.0221,True,Watch
+CMP101766,FMCG,2026-08-31,0.0221,True,Watch
+CMP102425,Construction,2026-08-31,0.0221,True,Watch
+CMP101179,Manufacturing,2026-08-31,0.0221,True,Watch
+CMP101336,Manufacturing,2026-08-31,0.0221,True,Watch
+CMP100853,FMCG,2026-08-31,0.022,True,Watch
+CMP102824,FMCG,2026-08-31,0.022,True,Watch
+CMP100985,FMCG,2026-08-31,0.022,True,Watch
+CMP101408,Pharma,2026-08-31,0.022,True,Watch
+CMP102763,Retail,2026-08-31,0.022,True,Watch
+CMP102955,Retail,2026-08-31,0.0219,True,Watch
+CMP102075,Logistics,2026-08-31,0.0219,True,Watch
+CMP100423,Manufacturing,2026-08-31,0.0219,True,Watch
+CMP101064,Retail,2026-08-31,0.0219,True,Watch
+CMP101265,Pharma,2026-08-31,0.0219,True,Watch
+CMP100038,Retail,2026-08-31,0.0219,True,Watch
+CMP101634,FMCG,2026-08-31,0.0219,True,Watch
+CMP100766,Manufacturing,2026-08-31,0.0218,True,Watch
+CMP101583,Retail,2026-08-31,0.0218,True,Watch
+CMP102747,Manufacturing,2026-08-31,0.0218,True,Watch
+CMP101052,Retail,2026-08-31,0.0217,True,Watch
+CMP102802,Manufacturing,2026-08-31,0.0217,True,Watch
+CMP101372,IT Services,2026-08-31,0.0216,True,Watch
+CMP100659,IT Services,2026-08-31,0.0216,True,Watch
+CMP102269,Pharma,2026-08-31,0.0216,True,Watch
+CMP102084,Construction,2026-08-31,0.0215,True,Watch
+CMP102896,FMCG,2026-08-31,0.0215,True,Watch
+CMP101557,IT Services,2026-08-31,0.0215,True,Watch
+CMP100404,FMCG,2026-08-31,0.0215,True,Watch
+CMP102632,FMCG,2026-08-31,0.0215,True,Watch
+CMP102260,Construction,2026-08-31,0.0214,True,Watch
+CMP100615,Construction,2026-08-31,0.0213,True,Watch
+CMP102044,FMCG,2026-08-31,0.0213,True,Watch
+CMP101028,Construction,2026-08-31,0.0213,True,Watch
+CMP101856,Retail,2026-08-31,0.0212,True,Watch
+CMP101718,Construction,2026-08-31,0.0212,True,Watch
+CMP100578,Pharma,2026-08-31,0.0211,True,Watch
+CMP100893,Manufacturing,2026-08-31,0.0211,True,Watch
+CMP101475,IT Services,2026-08-31,0.0211,True,Watch
+CMP102764,Manufacturing,2026-08-31,0.0211,True,Watch
+CMP102103,FMCG,2026-08-31,0.021,True,Watch
+CMP101893,Manufacturing,2026-08-31,0.021,True,Watch
+CMP102746,Manufacturing,2026-08-31,0.021,True,Watch
+CMP100183,Retail,2026-08-31,0.021,True,Watch
+CMP102396,Retail,2026-08-31,0.0209,True,Watch
+CMP101106,Manufacturing,2026-08-31,0.0209,True,Watch
+CMP102107,FMCG,2026-08-31,0.0209,True,Watch
+CMP101983,Retail,2026-08-31,0.0208,True,Watch
+CMP100028,Manufacturing,2026-08-31,0.0208,True,Watch
+CMP100091,Construction,2026-08-31,0.0208,True,Watch
+CMP101752,FMCG,2026-08-31,0.0207,True,Watch
+CMP101121,Manufacturing,2026-08-31,0.0207,True,Watch
+CMP100847,Construction,2026-08-31,0.0207,True,Watch
+CMP102637,Manufacturing,2026-08-31,0.0207,True,Watch
+CMP101137,IT Services,2026-08-31,0.0207,True,Watch
+CMP102056,FMCG,2026-08-31,0.0207,True,Watch
+CMP101546,Retail,2026-08-31,0.0206,True,Watch
+CMP102773,Manufacturing,2026-08-31,0.0206,True,Watch
+CMP101337,Logistics,2026-08-31,0.0206,True,Watch
+CMP102754,FMCG,2026-08-31,0.0206,True,Watch
+CMP101163,Manufacturing,2026-08-31,0.0205,True,Watch
+CMP102603,Construction,2026-08-31,0.0205,True,Watch
+CMP101414,Manufacturing,2026-08-31,0.0205,True,Watch
+CMP102373,Retail,2026-08-31,0.0205,True,Watch
+CMP102762,Manufacturing,2026-08-31,0.0205,True,Watch
+CMP101621,IT Services,2026-08-31,0.0205,True,Watch
+CMP100531,Construction,2026-08-31,0.0205,True,Watch
+CMP100974,Retail,2026-08-31,0.0205,True,Watch
+CMP102821,Construction,2026-08-31,0.0205,True,Watch
+CMP101511,Manufacturing,2026-08-31,0.0204,True,Watch
+CMP101355,Manufacturing,2026-08-31,0.0204,True,Watch
+CMP100744,IT Services,2026-08-31,0.0204,True,Watch
+CMP101982,Pharma,2026-08-31,0.0203,True,Watch
+CMP101890,Retail,2026-08-31,0.0203,True,Watch
+CMP100495,Logistics,2026-08-31,0.0203,True,Watch
+CMP101696,Manufacturing,2026-08-31,0.0203,True,Watch
+CMP100573,Construction,2026-08-31,0.0203,True,Watch
+CMP100400,Retail,2026-08-31,0.0203,True,Watch
+CMP100719,FMCG,2026-08-31,0.0203,True,Watch
+CMP100011,FMCG,2026-08-31,0.0202,True,Watch
+CMP102264,Logistics,2026-08-31,0.0202,True,Watch
+CMP102490,FMCG,2026-08-31,0.0202,True,Watch
+CMP102267,IT Services,2026-08-31,0.0201,True,Watch
+CMP101940,Retail,2026-08-31,0.0201,True,Watch
+CMP101741,Retail,2026-08-31,0.0201,True,Watch
+CMP101764,Manufacturing,2026-08-31,0.0201,True,Watch
+CMP102601,Construction,2026-08-31,0.0201,True,Watch
+CMP102892,Logistics,2026-08-31,0.0201,True,Watch
+CMP100833,Construction,2026-08-31,0.0201,True,Watch
+CMP101895,Manufacturing,2026-08-31,0.02,True,Watch
+CMP102580,Manufacturing,2026-08-31,0.02,True,Watch
+CMP102439,Construction,2026-08-31,0.02,True,Watch
+CMP101510,Manufacturing,2026-08-31,0.02,True,Watch
+CMP102559,Manufacturing,2026-08-31,0.02,True,Watch
+CMP100631,Pharma,2026-08-31,0.02,True,Watch
+CMP101937,Logistics,2026-08-31,0.0199,True,Watch
+CMP100704,Retail,2026-08-31,0.0199,True,Watch
+CMP101302,Construction,2026-08-31,0.0199,True,Watch
+CMP101226,IT Services,2026-08-31,0.0199,True,Watch
+CMP100383,IT Services,2026-08-31,0.0198,True,Watch
+CMP101434,Manufacturing,2026-08-31,0.0198,True,Watch
+CMP101218,Construction,2026-08-31,0.0198,True,Watch
+CMP100161,FMCG,2026-08-31,0.0198,True,Watch
+CMP101159,Construction,2026-08-31,0.0198,True,Watch
+CMP102012,Manufacturing,2026-08-31,0.0197,True,Watch
+CMP101892,Logistics,2026-08-31,0.0197,True,Watch
+CMP101854,Pharma,2026-08-31,0.0197,True,Watch
+CMP101734,Pharma,2026-08-31,0.0197,True,Watch
+CMP100820,Manufacturing,2026-08-31,0.0197,True,Watch
+CMP101166,Pharma,2026-08-31,0.0197,True,Watch
+CMP102380,Pharma,2026-08-31,0.0196,True,Watch
+CMP102668,Logistics,2026-08-31,0.0196,True,Watch
+CMP101923,Retail,2026-08-31,0.0196,True,Watch
+CMP102045,Manufacturing,2026-08-31,0.0196,True,Watch
+CMP101224,Manufacturing,2026-08-31,0.0195,True,Watch
+CMP102509,Construction,2026-08-31,0.0195,True,Watch
+CMP100433,Pharma,2026-08-31,0.0194,True,Watch
+CMP102063,Manufacturing,2026-08-31,0.0194,True,Watch
+CMP102170,IT Services,2026-08-31,0.0194,True,Watch
+CMP100849,FMCG,2026-08-31,0.0194,True,Watch
+CMP100192,Manufacturing,2026-08-31,0.0193,True,Watch
+CMP102635,IT Services,2026-08-31,0.0193,True,Watch
+CMP102387,Manufacturing,2026-08-31,0.0193,True,Watch
+CMP102279,Construction,2026-08-31,0.0192,True,Watch
+CMP100199,Retail,2026-08-31,0.0192,True,Watch
+CMP101410,Pharma,2026-08-31,0.0191,True,Watch
+CMP100407,Pharma,2026-08-31,0.0191,True,Watch
+CMP101200,Logistics,2026-08-31,0.0191,True,Watch
+CMP102254,FMCG,2026-08-31,0.0191,True,Watch
+CMP102835,Construction,2026-08-31,0.019,True,Watch
+CMP100262,Retail,2026-08-31,0.019,True,Watch
+CMP101396,Logistics,2026-08-31,0.019,True,Watch
+CMP100790,Manufacturing,2026-08-31,0.019,True,Watch
+CMP102663,Retail,2026-08-31,0.019,True,Watch
+CMP101575,Retail,2026-08-31,0.019,True,Watch
+CMP100029,Construction,2026-08-31,0.0189,True,Watch
+CMP101645,IT Services,2026-08-31,0.0189,True,Watch
+CMP101577,Pharma,2026-08-31,0.0189,True,Watch
+CMP102408,Retail,2026-08-31,0.0189,True,Watch
+CMP100881,Logistics,2026-08-31,0.0188,True,Watch
+CMP101015,Manufacturing,2026-08-31,0.0188,True,Watch
+CMP101995,Construction,2026-08-31,0.0188,True,Watch
+CMP100929,Construction,2026-08-31,0.0188,True,Watch
+CMP102629,Retail,2026-08-31,0.0187,True,Watch
+CMP101883,Construction,2026-08-31,0.0187,True,Watch
+CMP102657,Logistics,2026-08-31,0.0187,True,Watch
+CMP101762,Manufacturing,2026-08-31,0.0187,True,Watch
+CMP102104,Logistics,2026-08-31,0.0187,True,Watch
+CMP102582,Manufacturing,2026-08-31,0.0187,True,Watch
+CMP102278,Pharma,2026-08-31,0.0187,True,Watch
+CMP100714,Pharma,2026-08-31,0.0187,True,Watch
+CMP100662,Manufacturing,2026-08-31,0.0187,True,Watch
+CMP101552,Retail,2026-08-31,0.0187,True,Watch
+CMP101536,Pharma,2026-08-31,0.0187,True,Watch
+CMP102132,FMCG,2026-08-31,0.0186,True,Watch
+CMP102003,Construction,2026-08-31,0.0186,True,Watch
+CMP101796,Logistics,2026-08-31,0.0186,True,Watch
+CMP101598,Pharma,2026-08-31,0.0186,True,Watch
+CMP101574,Manufacturing,2026-08-31,0.0186,True,Watch
+CMP101173,Construction,2026-08-31,0.0186,True,Watch
+CMP100128,Manufacturing,2026-08-31,0.0186,True,Watch
+CMP100603,Construction,2026-08-31,0.0185,True,Watch
+CMP102182,Pharma,2026-08-31,0.0185,True,Watch
+CMP100674,Logistics,2026-08-31,0.0185,True,Watch
+CMP101587,Logistics,2026-08-31,0.0185,True,Watch
+CMP102159,Manufacturing,2026-08-31,0.0185,True,Watch
+CMP101781,Pharma,2026-08-31,0.0185,True,Watch
+CMP101830,IT Services,2026-08-31,0.0185,True,Watch
+CMP100238,Manufacturing,2026-08-31,0.0185,True,Watch
+CMP100275,IT Services,2026-08-31,0.0185,True,Watch
+CMP101887,Manufacturing,2026-08-31,0.0184,True,Watch
+CMP100335,Logistics,2026-08-31,0.0184,True,Watch
+CMP101679,Logistics,2026-08-31,0.0183,True,Watch
+CMP100146,Retail,2026-08-31,0.0183,True,Watch
+CMP102320,Manufacturing,2026-08-31,0.0183,True,Watch
+CMP100980,FMCG,2026-08-31,0.0183,True,Watch
+CMP102082,Construction,2026-08-31,0.0183,True,Watch
+CMP100577,Logistics,2026-08-31,0.0183,True,Watch
+CMP102313,Manufacturing,2026-08-31,0.0182,True,Watch
+CMP100943,IT Services,2026-08-31,0.0182,True,Watch
+CMP100560,Manufacturing,2026-08-31,0.0181,True,Watch
+CMP101261,IT Services,2026-08-31,0.0181,True,Watch
+CMP100549,IT Services,2026-08-31,0.0181,True,Watch
+CMP101652,Retail,2026-08-31,0.0181,True,Watch
+CMP102167,IT Services,2026-08-31,0.018,True,Watch
+CMP100429,Pharma,2026-08-31,0.018,True,Watch
+CMP101747,Logistics,2026-08-31,0.018,True,Watch
+CMP100307,Logistics,2026-08-31,0.018,True,Watch
+CMP101959,Logistics,2026-08-31,0.018,True,Watch
+CMP102519,Manufacturing,2026-08-31,0.018,True,Watch
+CMP102737,Logistics,2026-08-31,0.018,True,Watch
+CMP100216,Manufacturing,2026-08-31,0.018,True,Watch
+CMP100614,Retail,2026-08-31,0.018,True,Watch
+CMP100331,Manufacturing,2026-08-31,0.0179,True,Watch
+CMP102230,Retail,2026-08-31,0.0179,True,Watch
+CMP102187,Logistics,2026-08-31,0.0179,True,Watch
+CMP100494,Pharma,2026-08-31,0.0179,True,Watch
+CMP100801,Retail,2026-08-31,0.0179,True,Watch
+CMP100053,Construction,2026-08-31,0.0179,True,Watch
+CMP100876,IT Services,2026-08-31,0.0178,True,Watch
+CMP101454,Retail,2026-08-31,0.0178,True,Watch
+CMP101616,Manufacturing,2026-08-31,0.0178,True,Watch
+CMP102967,Retail,2026-08-31,0.0177,True,Watch
+CMP102569,FMCG,2026-08-31,0.0177,True,Watch
+CMP102383,Manufacturing,2026-08-31,0.0177,True,Watch
+CMP100687,FMCG,2026-08-31,0.0177,True,Watch
+CMP101525,Manufacturing,2026-08-31,0.0177,True,Watch
+CMP100641,Pharma,2026-08-31,0.0177,True,Watch
+CMP100907,Manufacturing,2026-08-31,0.0176,True,Watch
+CMP101509,Construction,2026-08-31,0.0176,True,Watch
+CMP100164,Logistics,2026-08-31,0.0176,True,Watch
+CMP102526,FMCG,2026-08-31,0.0176,True,Watch
+CMP100605,Pharma,2026-08-31,0.0176,True,Watch
+CMP100349,Manufacturing,2026-08-31,0.0176,True,Watch
+CMP102544,Logistics,2026-08-31,0.0176,True,Watch
+CMP100104,Construction,2026-08-31,0.0176,True,Watch
+CMP101714,Retail,2026-08-31,0.0175,True,Watch
+CMP101912,FMCG,2026-08-31,0.0175,True,Watch
+CMP102038,Logistics,2026-08-31,0.0175,True,Watch
+CMP102494,FMCG,2026-08-31,0.0175,True,Watch
+CMP101813,Retail,2026-08-31,0.0175,True,Watch
+CMP102216,Manufacturing,2026-08-31,0.0175,True,Watch
+CMP102770,Manufacturing,2026-08-31,0.0175,True,Watch
+CMP102392,Retail,2026-08-31,0.0174,True,Watch
+CMP101588,Retail,2026-08-31,0.0174,True,Watch
+CMP102468,Logistics,2026-08-31,0.0174,True,Watch
+CMP101471,Manufacturing,2026-08-31,0.0174,True,Watch
+CMP100654,Pharma,2026-08-31,0.0174,True,Watch
+CMP100018,Pharma,2026-08-31,0.0174,True,Watch
+CMP101370,Manufacturing,2026-08-31,0.0174,True,Watch
+CMP101537,Construction,2026-08-31,0.0174,True,Watch
+CMP102817,Logistics,2026-08-31,0.0174,True,Watch
+CMP102547,Manufacturing,2026-08-31,0.0174,True,Watch
+CMP101863,Logistics,2026-08-31,0.0174,True,Watch
+CMP102395,FMCG,2026-08-31,0.0174,True,Watch
+CMP100723,FMCG,2026-08-31,0.0174,True,Watch
+CMP101039,Manufacturing,2026-08-31,0.0173,True,Watch
+CMP102356,IT Services,2026-08-31,0.0173,True,Watch
+CMP101877,Retail,2026-08-31,0.0173,True,Watch
+CMP102707,Retail,2026-08-31,0.0173,True,Watch
+CMP100421,Manufacturing,2026-08-31,0.0173,True,Watch
+CMP100561,Retail,2026-08-31,0.0173,True,Watch
+CMP101069,IT Services,2026-08-31,0.0172,True,Watch
+CMP101384,FMCG,2026-08-31,0.0172,True,Watch
+CMP101944,Pharma,2026-08-31,0.0171,True,Watch
+CMP102613,Construction,2026-08-31,0.0171,True,Watch
+CMP100206,Manufacturing,2026-08-31,0.0171,True,Watch
+CMP102521,Logistics,2026-08-31,0.0171,True,Watch
+CMP101704,IT Services,2026-08-31,0.0171,True,Watch
+CMP102957,Manufacturing,2026-08-31,0.017,True,Watch
+CMP102706,FMCG,2026-08-31,0.017,True,Watch
+CMP101834,Manufacturing,2026-08-31,0.017,True,Watch
+CMP101380,IT Services,2026-08-31,0.017,True,Watch
+CMP101761,Manufacturing,2026-08-31,0.0169,True,Watch
+CMP102144,Retail,2026-08-31,0.0169,True,Watch
+CMP102074,IT Services,2026-08-31,0.0169,True,Watch
+CMP101979,Manufacturing,2026-08-31,0.0169,True,Watch
+CMP101247,Manufacturing,2026-08-31,0.0169,True,Watch
+CMP102194,Logistics,2026-08-31,0.0169,True,Watch
+CMP102740,Manufacturing,2026-08-31,0.0169,True,Watch
+CMP102825,Construction,2026-08-31,0.0169,True,Watch
+CMP101756,Manufacturing,2026-08-31,0.0168,True,Watch
+CMP102481,Retail,2026-08-31,0.0168,True,Watch
+CMP102993,Logistics,2026-08-31,0.0168,True,Watch
+CMP100200,Construction,2026-08-31,0.0168,True,Watch
+CMP101984,Logistics,2026-08-31,0.0167,True,Watch
+CMP100131,FMCG,2026-08-31,0.0167,True,Watch
+CMP101814,Pharma,2026-08-31,0.0167,True,Watch
+CMP100942,Manufacturing,2026-08-31,0.0167,True,Watch
+CMP100637,Construction,2026-08-31,0.0167,True,Watch
+CMP101074,Pharma,2026-08-31,0.0166,True,Watch
+CMP100616,Construction,2026-08-31,0.0166,True,Watch
+CMP100613,FMCG,2026-08-31,0.0166,True,Watch
+CMP102326,Manufacturing,2026-08-31,0.0166,True,Watch
+CMP101837,IT Services,2026-08-31,0.0166,True,Watch
+CMP101871,IT Services,2026-08-31,0.0166,True,Watch
+CMP100235,Pharma,2026-08-31,0.0166,True,Watch
+CMP100611,Construction,2026-08-31,0.0166,True,Watch
+CMP101463,Retail,2026-08-31,0.0166,True,Watch
+CMP101698,FMCG,2026-08-31,0.0166,True,Watch
+CMP102618,Pharma,2026-08-31,0.0165,True,Watch
+CMP101735,Construction,2026-08-31,0.0165,True,Watch
+CMP102980,Logistics,2026-08-31,0.0165,True,Watch
+CMP102094,FMCG,2026-08-31,0.0165,True,Watch
+CMP100321,IT Services,2026-08-31,0.0164,True,Watch
+CMP102785,Construction,2026-08-31,0.0164,True,Watch
+CMP100951,Retail,2026-08-31,0.0164,True,Watch
+CMP102061,Retail,2026-08-31,0.0163,True,Watch
+CMP102508,Logistics,2026-08-31,0.0163,True,Watch
+CMP101025,Retail,2026-08-31,0.0163,True,Watch
+CMP100041,Pharma,2026-08-31,0.0163,True,Watch
+CMP102332,Pharma,2026-08-31,0.0163,True,Watch
+CMP102405,Retail,2026-08-31,0.0163,True,Watch
+CMP102517,Retail,2026-08-31,0.0162,True,Watch
+CMP101902,Pharma,2026-08-31,0.0162,True,Watch
+CMP101339,IT Services,2026-08-31,0.0162,True,Watch
+CMP100341,FMCG,2026-08-31,0.0162,True,Watch
+CMP102606,Logistics,2026-08-31,0.0162,True,Watch
+CMP101246,Logistics,2026-08-31,0.0162,True,Watch
+CMP100499,IT Services,2026-08-31,0.0161,True,Watch
+CMP100067,Retail,2026-08-31,0.0161,True,Watch
+CMP100761,Manufacturing,2026-08-31,0.0161,True,Watch
+CMP102553,FMCG,2026-08-31,0.0161,True,Watch
+CMP102266,Construction,2026-08-31,0.0161,True,Watch
+CMP100724,Manufacturing,2026-08-31,0.016,True,Watch
+CMP100155,Construction,2026-08-31,0.016,True,Watch
+CMP100692,Retail,2026-08-31,0.016,True,Watch
+CMP101139,Construction,2026-08-31,0.0159,True,Watch
+CMP101242,Retail,2026-08-31,0.0159,True,Watch
+CMP102204,Retail,2026-08-31,0.0159,True,Watch
+CMP101430,FMCG,2026-08-31,0.0159,True,Watch
+CMP102781,Manufacturing,2026-08-31,0.0159,True,Watch
+CMP100824,Pharma,2026-08-31,0.0159,True,Watch
+CMP102456,Logistics,2026-08-31,0.0159,True,Watch
+CMP102495,Logistics,2026-08-31,0.0159,True,Watch
+CMP102039,Construction,2026-08-31,0.0158,True,Watch
+CMP101036,Retail,2026-08-31,0.0158,True,Watch
+CMP102289,Retail,2026-08-31,0.0158,True,Watch
+CMP100821,Logistics,2026-08-31,0.0158,True,Watch
+CMP102271,Logistics,2026-08-31,0.0158,True,Watch
+CMP100651,FMCG,2026-08-31,0.0158,True,Watch
+CMP100739,IT Services,2026-08-31,0.0158,True,Watch
+CMP100829,Retail,2026-08-31,0.0157,True,Watch
+CMP101348,IT Services,2026-08-31,0.0157,True,Watch
+CMP102776,Construction,2026-08-31,0.0157,True,Watch
+CMP102818,IT Services,2026-08-31,0.0157,True,Watch
+CMP102096,Manufacturing,2026-08-31,0.0157,True,Watch
+CMP100160,Manufacturing,2026-08-31,0.0157,True,Watch
+CMP100245,Pharma,2026-08-31,0.0156,True,Watch
+CMP101196,Retail,2026-08-31,0.0156,True,Watch
+CMP101829,IT Services,2026-08-31,0.0156,True,Watch
+CMP102748,IT Services,2026-08-31,0.0156,True,Watch
+CMP100709,IT Services,2026-08-31,0.0156,True,Watch
+CMP102340,Manufacturing,2026-08-31,0.0156,True,Watch
+CMP100809,FMCG,2026-08-31,0.0156,True,Watch
+CMP100015,Retail,2026-08-31,0.0156,True,Watch
+CMP100113,Logistics,2026-08-31,0.0156,True,Watch
+CMP102499,IT Services,2026-08-31,0.0156,True,Watch
+CMP101298,Construction,2026-08-31,0.0155,True,Watch
+CMP100166,Pharma,2026-08-31,0.0155,True,Watch
+CMP100361,Manufacturing,2026-08-31,0.0154,True,Watch
+CMP102143,Pharma,2026-08-31,0.0154,True,Watch
+CMP100359,Logistics,2026-08-31,0.0154,True,Watch
+CMP102398,Manufacturing,2026-08-31,0.0154,True,Watch
+CMP101496,Pharma,2026-08-31,0.0154,True,Watch
+CMP100776,Logistics,2026-08-31,0.0154,True,Watch
+CMP101325,Pharma,2026-08-31,0.0154,True,Watch
+CMP101578,FMCG,2026-08-31,0.0153,True,Watch
+CMP101155,Manufacturing,2026-08-31,0.0153,True,Watch
+CMP102567,Manufacturing,2026-08-31,0.0153,True,Watch
+CMP100941,Pharma,2026-08-31,0.0153,True,Watch
+CMP100545,IT Services,2026-08-31,0.0153,True,Watch
+CMP100377,IT Services,2026-08-31,0.0153,True,Watch
+CMP100105,Construction,2026-08-31,0.0152,True,Watch
+CMP102576,Construction,2026-08-31,0.0152,True,Watch
+CMP102655,FMCG,2026-08-31,0.0152,True,Watch
+CMP101499,Construction,2026-08-31,0.0152,True,Watch
+CMP100630,FMCG,2026-08-31,0.0152,True,Watch
+CMP101759,FMCG,2026-08-31,0.0152,True,Watch
+CMP101805,Construction,2026-08-31,0.0151,True,Watch
+CMP101661,Logistics,2026-08-31,0.0151,True,Watch
+CMP101586,Retail,2026-08-31,0.0151,True,Watch
+CMP100493,Retail,2026-08-31,0.0151,True,Watch
+CMP101079,Retail,2026-08-31,0.0151,True,Watch
+CMP100596,Construction,2026-08-31,0.0151,True,Watch
+CMP101479,IT Services,2026-08-31,0.0151,True,Watch
+CMP102790,Pharma,2026-08-31,0.0151,True,Watch
+CMP101267,FMCG,2026-08-31,0.015,True,Watch
+CMP100787,Retail,2026-08-31,0.015,True,Watch
+CMP102541,IT Services,2026-08-31,0.0149,True,Watch
+CMP102246,Retail,2026-08-31,0.0149,True,Watch
+CMP102363,FMCG,2026-08-31,0.0149,True,Watch
+CMP100312,Retail,2026-08-31,0.0149,True,Watch
+CMP101702,Retail,2026-08-31,0.0149,True,Watch
+CMP100516,Retail,2026-08-31,0.0149,True,Watch
+CMP100219,IT Services,2026-08-31,0.0148,True,Watch
+CMP102454,Logistics,2026-08-31,0.0148,True,Watch
+CMP100797,Manufacturing,2026-08-31,0.0148,True,Watch
+CMP101719,Pharma,2026-08-31,0.0148,True,Watch
+CMP100054,Construction,2026-08-31,0.0148,True,Watch
+CMP102956,Manufacturing,2026-08-31,0.0148,True,Watch
+CMP102181,FMCG,2026-08-31,0.0148,True,Watch
+CMP100846,IT Services,2026-08-31,0.0148,True,Watch
+CMP102857,IT Services,2026-08-31,0.0147,True,Watch
+CMP101232,Manufacturing,2026-08-31,0.0147,True,Watch
+CMP102258,Manufacturing,2026-08-31,0.0147,True,Watch
+CMP101653,Manufacturing,2026-08-31,0.0147,True,Watch
+CMP102328,Logistics,2026-08-31,0.0147,True,Watch
+CMP101352,Retail,2026-08-31,0.0146,True,Watch
+CMP101507,IT Services,2026-08-31,0.0146,True,Watch
+CMP102721,Pharma,2026-08-31,0.0146,True,Watch
+CMP101955,FMCG,2026-08-31,0.0146,True,Watch
+CMP102743,Construction,2026-08-31,0.0146,True,Watch
+CMP101688,Logistics,2026-08-31,0.0146,True,Watch
+CMP102641,Construction,2026-08-31,0.0146,True,Watch
+CMP100884,Manufacturing,2026-08-31,0.0146,True,Watch
+CMP101144,IT Services,2026-08-31,0.0146,True,Watch
+CMP100944,IT Services,2026-08-31,0.0145,True,Watch
+CMP102213,IT Services,2026-08-31,0.0144,True,Watch
+CMP101088,IT Services,2026-08-31,0.0144,True,Watch
+CMP100901,Retail,2026-08-31,0.0144,True,Watch
+CMP102579,FMCG,2026-08-31,0.0144,True,Watch
+CMP101316,Logistics,2026-08-31,0.0144,True,Watch
+CMP101000,Manufacturing,2026-08-31,0.0143,True,Watch
+CMP101072,IT Services,2026-08-31,0.0143,True,Watch
+CMP100252,IT Services,2026-08-31,0.0143,True,Watch
+CMP101114,FMCG,2026-08-31,0.0143,True,Watch
+CMP102621,FMCG,2026-08-31,0.0143,True,Watch
+CMP102281,Manufacturing,2026-08-31,0.0143,True,Watch
+CMP101215,Logistics,2026-08-31,0.0143,True,Watch
+CMP102432,Logistics,2026-08-31,0.0143,True,Watch
+CMP101061,Logistics,2026-08-31,0.0143,True,Watch
+CMP102011,Retail,2026-08-31,0.0142,True,Watch
+CMP101568,IT Services,2026-08-31,0.0142,True,Watch
+CMP102335,Construction,2026-08-31,0.0142,True,Watch
+CMP101974,Manufacturing,2026-08-31,0.0142,True,Watch
+CMP100987,Manufacturing,2026-08-31,0.0142,True,Watch
+CMP100517,Construction,2026-08-31,0.0141,True,Watch
+CMP101223,Construction,2026-08-31,0.0141,True,Watch
+CMP102412,IT Services,2026-08-31,0.0141,True,Watch
+CMP101763,Manufacturing,2026-08-31,0.0141,True,Watch
+CMP100701,Retail,2026-08-31,0.0141,True,Watch
+CMP101423,IT Services,2026-08-31,0.0141,True,Watch
+CMP100189,Retail,2026-08-31,0.0141,True,Watch
+CMP100533,Construction,2026-08-31,0.0141,True,Watch
+CMP100165,IT Services,2026-08-31,0.014,True,Watch
+CMP100889,Construction,2026-08-31,0.014,True,Watch
+CMP101477,FMCG,2026-08-31,0.014,True,Watch
+CMP100090,Manufacturing,2026-08-31,0.0139,True,Watch
+CMP101500,Construction,2026-08-31,0.0139,True,Watch
+CMP102905,Construction,2026-08-31,0.0139,True,Watch
+CMP102612,IT Services,2026-08-31,0.0139,True,Watch
+CMP100002,Pharma,2026-08-31,0.0139,True,Watch
+CMP100390,Logistics,2026-08-31,0.0139,True,Watch
+CMP102504,Retail,2026-08-31,0.0139,True,Watch
+CMP102025,IT Services,2026-08-31,0.0139,True,Watch
+CMP101564,Pharma,2026-08-31,0.0138,False,Not flagged
+CMP100388,Manufacturing,2026-08-31,0.0138,False,Not flagged
+CMP101647,Pharma,2026-08-31,0.0138,False,Not flagged
+CMP100250,Construction,2026-08-31,0.0138,False,Not flagged
+CMP100045,Pharma,2026-08-31,0.0138,False,Not flagged
+CMP102765,FMCG,2026-08-31,0.0138,False,Not flagged
+CMP102029,Logistics,2026-08-31,0.0138,False,Not flagged
+CMP101444,Manufacturing,2026-08-31,0.0137,False,Not flagged
+CMP102554,Retail,2026-08-31,0.0137,False,Not flagged
+CMP102987,Logistics,2026-08-31,0.0137,False,Not flagged
+CMP102400,Logistics,2026-08-31,0.0137,False,Not flagged
+CMP101054,Retail,2026-08-31,0.0137,False,Not flagged
+CMP101914,Manufacturing,2026-08-31,0.0137,False,Not flagged
+CMP100181,FMCG,2026-08-31,0.0137,False,Not flagged
+CMP101313,Manufacturing,2026-08-31,0.0137,False,Not flagged
+CMP101460,Construction,2026-08-31,0.0136,False,Not flagged
+CMP102491,IT Services,2026-08-31,0.0136,False,Not flagged
+CMP100260,Manufacturing,2026-08-31,0.0136,False,Not flagged
+CMP102739,Logistics,2026-08-31,0.0135,False,Not flagged
+CMP102984,Manufacturing,2026-08-31,0.0135,False,Not flagged
+CMP100977,IT Services,2026-08-31,0.0135,False,Not flagged
+CMP101743,FMCG,2026-08-31,0.0135,False,Not flagged
+CMP100293,Manufacturing,2026-08-31,0.0135,False,Not flagged
+CMP100888,Manufacturing,2026-08-31,0.0135,False,Not flagged
+CMP100460,Logistics,2026-08-31,0.0134,False,Not flagged
+CMP102898,Logistics,2026-08-31,0.0134,False,Not flagged
+CMP102954,IT Services,2026-08-31,0.0134,False,Not flagged
+CMP100101,Construction,2026-08-31,0.0134,False,Not flagged
+CMP102767,Construction,2026-08-31,0.0134,False,Not flagged
+CMP100923,Logistics,2026-08-31,0.0134,False,Not flagged
+CMP100956,Construction,2026-08-31,0.0134,False,Not flagged
+CMP102592,Construction,2026-08-31,0.0134,False,Not flagged
+CMP101098,Pharma,2026-08-31,0.0133,False,Not flagged
+CMP101456,Retail,2026-08-31,0.0133,False,Not flagged
+CMP100920,Manufacturing,2026-08-31,0.0133,False,Not flagged
+CMP100095,Logistics,2026-08-31,0.0133,False,Not flagged
+CMP100305,IT Services,2026-08-31,0.0133,False,Not flagged
+CMP100922,Logistics,2026-08-31,0.0132,False,Not flagged
+CMP101570,IT Services,2026-08-31,0.0132,False,Not flagged
+CMP102105,Construction,2026-08-31,0.0131,False,Not flagged
+CMP100973,FMCG,2026-08-31,0.0131,False,Not flagged
+CMP100102,Retail,2026-08-31,0.0131,False,Not flagged
+CMP101253,Logistics,2026-08-31,0.0131,False,Not flagged
+CMP102633,Logistics,2026-08-31,0.0131,False,Not flagged
+CMP101947,FMCG,2026-08-31,0.013,False,Not flagged
+CMP102959,FMCG,2026-08-31,0.013,False,Not flagged
+CMP102337,Retail,2026-08-31,0.013,False,Not flagged
+CMP102808,Manufacturing,2026-08-31,0.013,False,Not flagged
+CMP101731,Manufacturing,2026-08-31,0.013,False,Not flagged
+CMP100403,Manufacturing,2026-08-31,0.013,False,Not flagged
+CMP101573,Pharma,2026-08-31,0.0129,False,Not flagged
+CMP102301,Construction,2026-08-31,0.0129,False,Not flagged
+CMP100753,IT Services,2026-08-31,0.0128,False,Not flagged
+CMP101415,Pharma,2026-08-31,0.0128,False,Not flagged
+CMP102640,Construction,2026-08-31,0.0128,False,Not flagged
+CMP101178,Manufacturing,2026-08-31,0.0128,False,Not flagged
+CMP102933,FMCG,2026-08-31,0.0128,False,Not flagged
+CMP100459,Logistics,2026-08-31,0.0128,False,Not flagged
+CMP100754,Construction,2026-08-31,0.0128,False,Not flagged
+CMP102809,Manufacturing,2026-08-31,0.0128,False,Not flagged
+CMP100233,Logistics,2026-08-31,0.0128,False,Not flagged
+CMP102794,Pharma,2026-08-31,0.0128,False,Not flagged
+CMP100099,FMCG,2026-08-31,0.0128,False,Not flagged
+CMP100813,Logistics,2026-08-31,0.0127,False,Not flagged
+CMP101296,Manufacturing,2026-08-31,0.0127,False,Not flagged
+CMP102870,Logistics,2026-08-31,0.0127,False,Not flagged
+CMP100915,FMCG,2026-08-31,0.0127,False,Not flagged
+CMP101630,IT Services,2026-08-31,0.0127,False,Not flagged
+CMP100513,Retail,2026-08-31,0.0127,False,Not flagged
+CMP100148,IT Services,2026-08-31,0.0127,False,Not flagged
+CMP101925,Manufacturing,2026-08-31,0.0127,False,Not flagged
+CMP102815,Logistics,2026-08-31,0.0126,False,Not flagged
+CMP102428,Logistics,2026-08-31,0.0126,False,Not flagged
+CMP100509,Manufacturing,2026-08-31,0.0126,False,Not flagged
+CMP102988,Manufacturing,2026-08-31,0.0126,False,Not flagged
+CMP100919,Logistics,2026-08-31,0.0126,False,Not flagged
+CMP100527,FMCG,2026-08-31,0.0126,False,Not flagged
+CMP100811,Manufacturing,2026-08-31,0.0126,False,Not flagged
+CMP102367,IT Services,2026-08-31,0.0125,False,Not flagged
+CMP102885,Retail,2026-08-31,0.0125,False,Not flagged
+CMP100927,Pharma,2026-08-31,0.0125,False,Not flagged
+CMP101543,Manufacturing,2026-08-31,0.0125,False,Not flagged
+CMP100748,Pharma,2026-08-31,0.0125,False,Not flagged
+CMP101629,IT Services,2026-08-31,0.0124,False,Not flagged
+CMP101933,Pharma,2026-08-31,0.0124,False,Not flagged
+CMP101926,Retail,2026-08-31,0.0124,False,Not flagged
+CMP102158,IT Services,2026-08-31,0.0124,False,Not flagged
+CMP101692,Retail,2026-08-31,0.0124,False,Not flagged
+CMP101187,FMCG,2026-08-31,0.0124,False,Not flagged
+CMP102634,Logistics,2026-08-31,0.0123,False,Not flagged
+CMP102130,Manufacturing,2026-08-31,0.0123,False,Not flagged
+CMP102384,Manufacturing,2026-08-31,0.0123,False,Not flagged
+CMP100960,Logistics,2026-08-31,0.0123,False,Not flagged
+CMP101059,Construction,2026-08-31,0.0123,False,Not flagged
+CMP102091,Pharma,2026-08-31,0.0123,False,Not flagged
+CMP102536,Pharma,2026-08-31,0.0122,False,Not flagged
+CMP100782,IT Services,2026-08-31,0.0122,False,Not flagged
+CMP102701,Logistics,2026-08-31,0.0122,False,Not flagged
+CMP100082,Pharma,2026-08-31,0.0121,False,Not flagged
+CMP100044,Pharma,2026-08-31,0.0121,False,Not flagged
+CMP102232,Manufacturing,2026-08-31,0.0121,False,Not flagged
+CMP101873,FMCG,2026-08-31,0.0121,False,Not flagged
+CMP102945,IT Services,2026-08-31,0.0121,False,Not flagged
+CMP101711,IT Services,2026-08-31,0.0121,False,Not flagged
+CMP101468,Construction,2026-08-31,0.0121,False,Not flagged
+CMP101700,FMCG,2026-08-31,0.0121,False,Not flagged
+CMP100464,Logistics,2026-08-31,0.0121,False,Not flagged
+CMP102341,Manufacturing,2026-08-31,0.0121,False,Not flagged
+CMP101949,FMCG,2026-08-31,0.012,False,Not flagged
+CMP100690,Retail,2026-08-31,0.012,False,Not flagged
+CMP101279,Logistics,2026-08-31,0.012,False,Not flagged
+CMP102902,Manufacturing,2026-08-31,0.012,False,Not flagged
+CMP102981,Retail,2026-08-31,0.012,False,Not flagged
+CMP101244,Retail,2026-08-31,0.012,False,Not flagged
+CMP101584,Logistics,2026-08-31,0.012,False,Not flagged
+CMP102810,Manufacturing,2026-08-31,0.012,False,Not flagged
+CMP100007,Pharma,2026-08-31,0.012,False,Not flagged
+CMP102965,Logistics,2026-08-31,0.0119,False,Not flagged
+CMP100345,Pharma,2026-08-31,0.0119,False,Not flagged
+CMP100103,FMCG,2026-08-31,0.0119,False,Not flagged
+CMP101090,Retail,2026-08-31,0.0119,False,Not flagged
+CMP101176,IT Services,2026-08-31,0.0119,False,Not flagged
+CMP101376,Construction,2026-08-31,0.0118,False,Not flagged
+CMP102252,IT Services,2026-08-31,0.0118,False,Not flagged
+CMP101283,Logistics,2026-08-31,0.0118,False,Not flagged
+CMP102693,FMCG,2026-08-31,0.0118,False,Not flagged
+CMP102492,Manufacturing,2026-08-31,0.0118,False,Not flagged
+CMP102071,IT Services,2026-08-31,0.0118,False,Not flagged
+CMP101309,FMCG,2026-08-31,0.0118,False,Not flagged
+CMP102573,Pharma,2026-08-31,0.0118,False,Not flagged
+CMP102986,Manufacturing,2026-08-31,0.0118,False,Not flagged
+CMP100163,Manufacturing,2026-08-31,0.0118,False,Not flagged
+CMP102867,Logistics,2026-08-31,0.0117,False,Not flagged
+CMP102368,Retail,2026-08-31,0.0117,False,Not flagged
+CMP101776,Construction,2026-08-31,0.0117,False,Not flagged
+CMP100771,Logistics,2026-08-31,0.0117,False,Not flagged
+CMP100050,Manufacturing,2026-08-31,0.0117,False,Not flagged
+CMP102010,Manufacturing,2026-08-31,0.0117,False,Not flagged
+CMP101488,FMCG,2026-08-31,0.0116,False,Not flagged
+CMP100671,Logistics,2026-08-31,0.0116,False,Not flagged
+CMP100931,IT Services,2026-08-31,0.0116,False,Not flagged
+CMP101239,Manufacturing,2026-08-31,0.0116,False,Not flagged
+CMP102133,FMCG,2026-08-31,0.0116,False,Not flagged
+CMP100437,IT Services,2026-08-31,0.0116,False,Not flagged
+CMP101533,Construction,2026-08-31,0.0116,False,Not flagged
+CMP100640,Construction,2026-08-31,0.0116,False,Not flagged
+CMP100283,Retail,2026-08-31,0.0115,False,Not flagged
+CMP101876,Retail,2026-08-31,0.0115,False,Not flagged
+CMP101614,Pharma,2026-08-31,0.0115,False,Not flagged
+CMP102890,Manufacturing,2026-08-31,0.0115,False,Not flagged
+CMP100240,Pharma,2026-08-31,0.0115,False,Not flagged
+CMP100132,Logistics,2026-08-31,0.0114,False,Not flagged
+CMP101182,Manufacturing,2026-08-31,0.0114,False,Not flagged
+CMP102089,IT Services,2026-08-31,0.0114,False,Not flagged
+CMP102448,Logistics,2026-08-31,0.0114,False,Not flagged
+CMP101264,Logistics,2026-08-31,0.0114,False,Not flagged
+CMP101909,FMCG,2026-08-31,0.0114,False,Not flagged
+CMP102511,IT Services,2026-08-31,0.0114,False,Not flagged
+CMP100528,Construction,2026-08-31,0.0114,False,Not flagged
+CMP100003,Construction,2026-08-31,0.0113,False,Not flagged
+CMP101861,FMCG,2026-08-31,0.0113,False,Not flagged
+CMP100717,Manufacturing,2026-08-31,0.0113,False,Not flagged
+CMP101775,Logistics,2026-08-31,0.0113,False,Not flagged
+CMP101206,Logistics,2026-08-31,0.0113,False,Not flagged
+CMP102512,Manufacturing,2026-08-31,0.0113,False,Not flagged
+CMP101758,FMCG,2026-08-31,0.0113,False,Not flagged
+CMP101754,Retail,2026-08-31,0.0113,False,Not flagged
+CMP101975,Manufacturing,2026-08-31,0.0113,False,Not flagged
+CMP100949,Retail,2026-08-31,0.0113,False,Not flagged
+CMP100938,FMCG,2026-08-31,0.0113,False,Not flagged
+CMP102479,FMCG,2026-08-31,0.0112,False,Not flagged
+CMP101991,Construction,2026-08-31,0.0112,False,Not flagged
+CMP100733,IT Services,2026-08-31,0.0112,False,Not flagged
+CMP100834,Construction,2026-08-31,0.0112,False,Not flagged
+CMP100049,Manufacturing,2026-08-31,0.0112,False,Not flagged
+CMP101828,FMCG,2026-08-31,0.0111,False,Not flagged
+CMP101561,Logistics,2026-08-31,0.0111,False,Not flagged
+CMP100366,Construction,2026-08-31,0.0111,False,Not flagged
+CMP102518,Logistics,2026-08-31,0.0111,False,Not flagged
+CMP100182,IT Services,2026-08-31,0.0111,False,Not flagged
+CMP102515,Pharma,2026-08-31,0.0111,False,Not flagged
+CMP102913,Construction,2026-08-31,0.011,False,Not flagged
+CMP102493,FMCG,2026-08-31,0.011,False,Not flagged
+CMP101125,Logistics,2026-08-31,0.011,False,Not flagged
+CMP102467,Logistics,2026-08-31,0.011,False,Not flagged
+CMP100892,Retail,2026-08-31,0.011,False,Not flagged
+CMP100684,Logistics,2026-08-31,0.011,False,Not flagged
+CMP100595,Retail,2026-08-31,0.0109,False,Not flagged
+CMP100203,Manufacturing,2026-08-31,0.0109,False,Not flagged
+CMP100963,Manufacturing,2026-08-31,0.0109,False,Not flagged
+CMP101379,IT Services,2026-08-31,0.0109,False,Not flagged
+CMP101807,IT Services,2026-08-31,0.0109,False,Not flagged
+CMP101675,FMCG,2026-08-31,0.0109,False,Not flagged
+CMP100389,Pharma,2026-08-31,0.0108,False,Not flagged
+CMP102882,Logistics,2026-08-31,0.0108,False,Not flagged
+CMP102540,IT Services,2026-08-31,0.0108,False,Not flagged
+CMP102803,Logistics,2026-08-31,0.0108,False,Not flagged
+CMP101308,Manufacturing,2026-08-31,0.0108,False,Not flagged
+CMP101635,IT Services,2026-08-31,0.0108,False,Not flagged
+CMP100604,FMCG,2026-08-31,0.0107,False,Not flagged
+CMP102284,Manufacturing,2026-08-31,0.0107,False,Not flagged
+CMP101138,Manufacturing,2026-08-31,0.0107,False,Not flagged
+CMP100886,IT Services,2026-08-31,0.0107,False,Not flagged
+CMP102379,Construction,2026-08-31,0.0107,False,Not flagged
+CMP101351,Pharma,2026-08-31,0.0107,False,Not flagged
+CMP100019,Logistics,2026-08-31,0.0106,False,Not flagged
+CMP102114,Manufacturing,2026-08-31,0.0106,False,Not flagged
+CMP100869,Manufacturing,2026-08-31,0.0106,False,Not flagged
+CMP100874,Construction,2026-08-31,0.0106,False,Not flagged
+CMP101971,FMCG,2026-08-31,0.0106,False,Not flagged
+CMP100458,Pharma,2026-08-31,0.0106,False,Not flagged
+CMP100670,Manufacturing,2026-08-31,0.0105,False,Not flagged
+CMP100196,Logistics,2026-08-31,0.0105,False,Not flagged
+CMP102734,Retail,2026-08-31,0.0105,False,Not flagged
+CMP102205,Logistics,2026-08-31,0.0105,False,Not flagged
+CMP100743,Manufacturing,2026-08-31,0.0105,False,Not flagged
+CMP101605,Retail,2026-08-31,0.0104,False,Not flagged
+CMP100707,Pharma,2026-08-31,0.0104,False,Not flagged
+CMP100680,Manufacturing,2026-08-31,0.0104,False,Not flagged
+CMP101315,Construction,2026-08-31,0.0104,False,Not flagged
+CMP100136,FMCG,2026-08-31,0.0104,False,Not flagged
+CMP101749,IT Services,2026-08-31,0.0104,False,Not flagged
+CMP100292,FMCG,2026-08-31,0.0104,False,Not flagged
+CMP101248,FMCG,2026-08-31,0.0104,False,Not flagged
+CMP101249,FMCG,2026-08-31,0.0104,False,Not flagged
+CMP101276,Manufacturing,2026-08-31,0.0104,False,Not flagged
+CMP100314,Retail,2026-08-31,0.0104,False,Not flagged
+CMP100515,Manufacturing,2026-08-31,0.0104,False,Not flagged
+CMP100978,Logistics,2026-08-31,0.0104,False,Not flagged
+CMP101338,Pharma,2026-08-31,0.0104,False,Not flagged
+CMP100638,Construction,2026-08-31,0.0103,False,Not flagged
+CMP101897,Retail,2026-08-31,0.0103,False,Not flagged
+CMP102872,Manufacturing,2026-08-31,0.0103,False,Not flagged
+CMP100705,Logistics,2026-08-31,0.0103,False,Not flagged
+CMP102190,Manufacturing,2026-08-31,0.0103,False,Not flagged
+CMP100621,IT Services,2026-08-31,0.0103,False,Not flagged
+CMP102876,Retail,2026-08-31,0.0102,False,Not flagged
+CMP100153,Logistics,2026-08-31,0.0102,False,Not flagged
+CMP100442,Construction,2026-08-31,0.0102,False,Not flagged
+CMP100946,Construction,2026-08-31,0.0102,False,Not flagged
+CMP100619,Manufacturing,2026-08-31,0.0102,False,Not flagged
+CMP101558,Construction,2026-08-31,0.0102,False,Not flagged
+CMP101611,Construction,2026-08-31,0.0101,False,Not flagged
+CMP101361,IT Services,2026-08-31,0.0101,False,Not flagged
+CMP101097,Pharma,2026-08-31,0.0101,False,Not flagged
+CMP100667,FMCG,2026-08-31,0.0101,False,Not flagged
+CMP102489,Logistics,2026-08-31,0.0101,False,Not flagged
+CMP102860,IT Services,2026-08-31,0.0101,False,Not flagged
+CMP102014,IT Services,2026-08-31,0.01,False,Not flagged
+CMP100815,FMCG,2026-08-31,0.01,False,Not flagged
+CMP100564,Construction,2026-08-31,0.01,False,Not flagged
+CMP102899,IT Services,2026-08-31,0.01,False,Not flagged
+CMP100750,Retail,2026-08-31,0.01,False,Not flagged
+CMP102066,IT Services,2026-08-31,0.01,False,Not flagged
+CMP101465,Construction,2026-08-31,0.01,False,Not flagged
+CMP102673,IT Services,2026-08-31,0.01,False,Not flagged
+CMP102154,Logistics,2026-08-31,0.01,False,Not flagged
+CMP100178,FMCG,2026-08-31,0.01,False,Not flagged
+CMP100485,IT Services,2026-08-31,0.01,False,Not flagged
+CMP101077,IT Services,2026-08-31,0.0099,False,Not flagged
+CMP101956,Logistics,2026-08-31,0.0099,False,Not flagged
+CMP101774,Logistics,2026-08-31,0.0099,False,Not flagged
+CMP102382,Manufacturing,2026-08-31,0.0099,False,Not flagged
+CMP102008,Manufacturing,2026-08-31,0.0099,False,Not flagged
+CMP101857,Retail,2026-08-31,0.0099,False,Not flagged
+CMP102179,FMCG,2026-08-31,0.0099,False,Not flagged
+CMP101049,Retail,2026-08-31,0.0099,False,Not flagged
+CMP101086,Construction,2026-08-31,0.0099,False,Not flagged
+CMP101174,IT Services,2026-08-31,0.0098,False,Not flagged
+CMP101864,Logistics,2026-08-31,0.0098,False,Not flagged
+CMP102863,Manufacturing,2026-08-31,0.0098,False,Not flagged
+CMP102649,Pharma,2026-08-31,0.0098,False,Not flagged
+CMP102374,Retail,2026-08-31,0.0098,False,Not flagged
+CMP100191,Retail,2026-08-31,0.0098,False,Not flagged
+CMP100209,IT Services,2026-08-31,0.0098,False,Not flagged
+CMP100551,Manufacturing,2026-08-31,0.0097,False,Not flagged
+CMP100663,Manufacturing,2026-08-31,0.0097,False,Not flagged
+CMP102571,Logistics,2026-08-31,0.0097,False,Not flagged
+CMP100697,Logistics,2026-08-31,0.0097,False,Not flagged
+CMP102357,IT Services,2026-08-31,0.0097,False,Not flagged
+CMP101740,Retail,2026-08-31,0.0096,False,Not flagged
+CMP102878,Logistics,2026-08-31,0.0096,False,Not flagged
+CMP100394,Manufacturing,2026-08-31,0.0096,False,Not flagged
+CMP101800,Logistics,2026-08-31,0.0096,False,Not flagged
+CMP102431,Construction,2026-08-31,0.0096,False,Not flagged
+CMP100474,Retail,2026-08-31,0.0096,False,Not flagged
+CMP100098,Manufacturing,2026-08-31,0.0096,False,Not flagged
+CMP102650,FMCG,2026-08-31,0.0096,False,Not flagged
+CMP100127,Manufacturing,2026-08-31,0.0095,False,Not flagged
+CMP102168,Retail,2026-08-31,0.0095,False,Not flagged
+CMP102137,Construction,2026-08-31,0.0095,False,Not flagged
+CMP100328,Logistics,2026-08-31,0.0095,False,Not flagged
+CMP100135,Manufacturing,2026-08-31,0.0095,False,Not flagged
+CMP102713,Manufacturing,2026-08-31,0.0095,False,Not flagged
+CMP101678,Pharma,2026-08-31,0.0095,False,Not flagged
+CMP101563,FMCG,2026-08-31,0.0095,False,Not flagged
+CMP101607,Retail,2026-08-31,0.0095,False,Not flagged
+CMP102068,Retail,2026-08-31,0.0095,False,Not flagged
+CMP102914,IT Services,2026-08-31,0.0095,False,Not flagged
+CMP102525,Manufacturing,2026-08-31,0.0095,False,Not flagged
+CMP101639,Construction,2026-08-31,0.0095,False,Not flagged
+CMP102002,FMCG,2026-08-31,0.0095,False,Not flagged
+CMP102834,Construction,2026-08-31,0.0095,False,Not flagged
+CMP102797,Retail,2026-08-31,0.0094,False,Not flagged
+CMP101353,Retail,2026-08-31,0.0094,False,Not flagged
+CMP102844,Manufacturing,2026-08-31,0.0094,False,Not flagged
+CMP102795,Logistics,2026-08-31,0.0094,False,Not flagged
+CMP100675,IT Services,2026-08-31,0.0093,False,Not flagged
+CMP100934,Construction,2026-08-31,0.0093,False,Not flagged
+CMP102564,Logistics,2026-08-31,0.0093,False,Not flagged
+CMP101333,FMCG,2026-08-31,0.0093,False,Not flagged
+CMP102411,FMCG,2026-08-31,0.0093,False,Not flagged
+CMP100725,Manufacturing,2026-08-31,0.0093,False,Not flagged
+CMP102297,Manufacturing,2026-08-31,0.0093,False,Not flagged
+CMP100541,Logistics,2026-08-31,0.0093,False,Not flagged
+CMP102121,Manufacturing,2026-08-31,0.0093,False,Not flagged
+CMP100418,Manufacturing,2026-08-31,0.0093,False,Not flagged
+CMP101677,IT Services,2026-08-31,0.0092,False,Not flagged
+CMP100440,Pharma,2026-08-31,0.0092,False,Not flagged
+CMP100446,FMCG,2026-08-31,0.0092,False,Not flagged
+CMP102859,IT Services,2026-08-31,0.0092,False,Not flagged
+CMP101716,Retail,2026-08-31,0.0092,False,Not flagged
+CMP100554,Manufacturing,2026-08-31,0.0091,False,Not flagged
+CMP101431,Logistics,2026-08-31,0.0091,False,Not flagged
+CMP100289,Manufacturing,2026-08-31,0.0091,False,Not flagged
+CMP101655,IT Services,2026-08-31,0.0091,False,Not flagged
+CMP102503,Pharma,2026-08-31,0.0091,False,Not flagged
+CMP100026,IT Services,2026-08-31,0.009,False,Not flagged
+CMP101794,FMCG,2026-08-31,0.009,False,Not flagged
+CMP100745,IT Services,2026-08-31,0.009,False,Not flagged
+CMP101033,FMCG,2026-08-31,0.009,False,Not flagged
+CMP100125,IT Services,2026-08-31,0.009,False,Not flagged
+CMP102942,Pharma,2026-08-31,0.009,False,Not flagged
+CMP102889,Manufacturing,2026-08-31,0.009,False,Not flagged
+CMP102057,IT Services,2026-08-31,0.009,False,Not flagged
+CMP102145,FMCG,2026-08-31,0.009,False,Not flagged
+CMP101722,Construction,2026-08-31,0.009,False,Not flagged
+CMP101124,IT Services,2026-08-31,0.009,False,Not flagged
+CMP101100,Manufacturing,2026-08-31,0.009,False,Not flagged
+CMP102925,Logistics,2026-08-31,0.0089,False,Not flagged
+CMP102853,Retail,2026-08-31,0.0089,False,Not flagged
+CMP100497,Logistics,2026-08-31,0.0089,False,Not flagged
+CMP101204,Manufacturing,2026-08-31,0.0089,False,Not flagged
+CMP102198,Retail,2026-08-31,0.0089,False,Not flagged
+CMP101865,Pharma,2026-08-31,0.0088,False,Not flagged
+CMP102251,Construction,2026-08-31,0.0088,False,Not flagged
+CMP102497,Manufacturing,2026-08-31,0.0088,False,Not flagged
+CMP101055,Construction,2026-08-31,0.0088,False,Not flagged
+CMP101534,Manufacturing,2026-08-31,0.0088,False,Not flagged
+CMP101154,Logistics,2026-08-31,0.0088,False,Not flagged
+CMP102689,IT Services,2026-08-31,0.0088,False,Not flagged
+CMP100073,Retail,2026-08-31,0.0087,False,Not flagged
+CMP100428,Manufacturing,2026-08-31,0.0087,False,Not flagged
+CMP100562,Pharma,2026-08-31,0.0087,False,Not flagged
+CMP102224,FMCG,2026-08-31,0.0087,False,Not flagged
+CMP101948,Manufacturing,2026-08-31,0.0087,False,Not flagged
+CMP101024,Construction,2026-08-31,0.0087,False,Not flagged
+CMP101514,FMCG,2026-08-31,0.0087,False,Not flagged
+CMP100450,Manufacturing,2026-08-31,0.0087,False,Not flagged
+CMP102642,Logistics,2026-08-31,0.0087,False,Not flagged
+CMP101441,Manufacturing,2026-08-31,0.0087,False,Not flagged
+CMP101713,FMCG,2026-08-31,0.0087,False,Not flagged
+CMP100114,Manufacturing,2026-08-31,0.0086,False,Not flagged
+CMP101065,FMCG,2026-08-31,0.0086,False,Not flagged
+CMP102354,IT Services,2026-08-31,0.0086,False,Not flagged
+CMP100453,Manufacturing,2026-08-31,0.0086,False,Not flagged
+CMP100852,Pharma,2026-08-31,0.0086,False,Not flagged
+CMP100783,Logistics,2026-08-31,0.0086,False,Not flagged
+CMP102651,IT Services,2026-08-31,0.0086,False,Not flagged
+CMP102446,Manufacturing,2026-08-31,0.0086,False,Not flagged
+CMP101146,Construction,2026-08-31,0.0086,False,Not flagged
+CMP102249,Retail,2026-08-31,0.0085,False,Not flagged
+CMP102235,Pharma,2026-08-31,0.0085,False,Not flagged
+CMP102220,Retail,2026-08-31,0.0085,False,Not flagged
+CMP101687,IT Services,2026-08-31,0.0085,False,Not flagged
+CMP101432,Manufacturing,2026-08-31,0.0085,False,Not flagged
+CMP101105,Construction,2026-08-31,0.0085,False,Not flagged
+CMP102342,Construction,2026-08-31,0.0085,False,Not flagged
+CMP100066,Logistics,2026-08-31,0.0085,False,Not flagged
+CMP102696,Pharma,2026-08-31,0.0084,False,Not flagged
+CMP100195,Manufacturing,2026-08-31,0.0084,False,Not flagged
+CMP100498,Retail,2026-08-31,0.0084,False,Not flagged
+CMP102556,Manufacturing,2026-08-31,0.0084,False,Not flagged
+CMP102927,Logistics,2026-08-31,0.0084,False,Not flagged
+CMP102272,Construction,2026-08-31,0.0084,False,Not flagged
+CMP102131,Construction,2026-08-31,0.0084,False,Not flagged
+CMP100968,Logistics,2026-08-31,0.0083,False,Not flagged
+CMP101289,Logistics,2026-08-31,0.0083,False,Not flagged
+CMP101426,Manufacturing,2026-08-31,0.0083,False,Not flagged
+CMP100374,Manufacturing,2026-08-31,0.0083,False,Not flagged
+CMP102938,Retail,2026-08-31,0.0083,False,Not flagged
+CMP101939,Manufacturing,2026-08-31,0.0083,False,Not flagged
+CMP100890,Retail,2026-08-31,0.0082,False,Not flagged
+CMP100538,Manufacturing,2026-08-31,0.0082,False,Not flagged
+CMP102731,Retail,2026-08-31,0.0082,False,Not flagged
+CMP101201,Logistics,2026-08-31,0.0082,False,Not flagged
+CMP102307,IT Services,2026-08-31,0.0082,False,Not flagged
+CMP102463,Logistics,2026-08-31,0.0082,False,Not flagged
+CMP102742,Manufacturing,2026-08-31,0.0082,False,Not flagged
+CMP102253,Logistics,2026-08-31,0.0082,False,Not flagged
+CMP100279,Pharma,2026-08-31,0.0082,False,Not flagged
+CMP101458,FMCG,2026-08-31,0.0082,False,Not flagged
+CMP102546,FMCG,2026-08-31,0.0082,False,Not flagged
+CMP100861,Construction,2026-08-31,0.0081,False,Not flagged
+CMP100130,Manufacturing,2026-08-31,0.0081,False,Not flagged
+CMP102758,Construction,2026-08-31,0.0081,False,Not flagged
+CMP102024,IT Services,2026-08-31,0.0081,False,Not flagged
+CMP101023,Logistics,2026-08-31,0.008,False,Not flagged
+CMP100914,FMCG,2026-08-31,0.008,False,Not flagged
+CMP101193,FMCG,2026-08-31,0.008,False,Not flagged
+CMP101083,Pharma,2026-08-31,0.008,False,Not flagged
+CMP101359,Manufacturing,2026-08-31,0.008,False,Not flagged
+CMP102247,Logistics,2026-08-31,0.008,False,Not flagged
+CMP101707,IT Services,2026-08-31,0.008,False,Not flagged
+CMP101472,Manufacturing,2026-08-31,0.0079,False,Not flagged
+CMP100177,FMCG,2026-08-31,0.0079,False,Not flagged
+CMP101729,IT Services,2026-08-31,0.0079,False,Not flagged
+CMP101428,Construction,2026-08-31,0.0079,False,Not flagged
+CMP102543,Retail,2026-08-31,0.0079,False,Not flagged
+CMP100075,Retail,2026-08-31,0.0079,False,Not flagged
+CMP100502,FMCG,2026-08-31,0.0078,False,Not flagged
+CMP102610,FMCG,2026-08-31,0.0078,False,Not flagged
+CMP102164,Pharma,2026-08-31,0.0078,False,Not flagged
+CMP101542,Retail,2026-08-31,0.0078,False,Not flagged
+CMP102715,Retail,2026-08-31,0.0078,False,Not flagged
+CMP101029,IT Services,2026-08-31,0.0078,False,Not flagged
+CMP101318,Construction,2026-08-31,0.0078,False,Not flagged
+CMP102979,Pharma,2026-08-31,0.0078,False,Not flagged
+CMP100031,FMCG,2026-08-31,0.0078,False,Not flagged
+CMP101848,IT Services,2026-08-31,0.0078,False,Not flagged
+CMP102722,Retail,2026-08-31,0.0077,False,Not flagged
+CMP102644,Retail,2026-08-31,0.0077,False,Not flagged
+CMP101450,Pharma,2026-08-31,0.0077,False,Not flagged
+CMP100462,FMCG,2026-08-31,0.0077,False,Not flagged
+CMP100174,Manufacturing,2026-08-31,0.0077,False,Not flagged
+CMP101149,FMCG,2026-08-31,0.0077,False,Not flagged
+CMP102021,Manufacturing,2026-08-31,0.0077,False,Not flagged
+CMP100141,IT Services,2026-08-31,0.0077,False,Not flagged
+CMP101990,Manufacturing,2026-08-31,0.0076,False,Not flagged
+CMP102309,FMCG,2026-08-31,0.0076,False,Not flagged
+CMP102215,Manufacturing,2026-08-31,0.0076,False,Not flagged
+CMP101113,FMCG,2026-08-31,0.0075,False,Not flagged
+CMP101132,Manufacturing,2026-08-31,0.0075,False,Not flagged
+CMP101946,Manufacturing,2026-08-31,0.0075,False,Not flagged
+CMP101778,Retail,2026-08-31,0.0075,False,Not flagged
+CMP101188,Manufacturing,2026-08-31,0.0075,False,Not flagged
+CMP102909,Logistics,2026-08-31,0.0075,False,Not flagged
+CMP102940,FMCG,2026-08-31,0.0075,False,Not flagged
+CMP101504,Pharma,2026-08-31,0.0075,False,Not flagged
+CMP100799,Construction,2026-08-31,0.0075,False,Not flagged
+CMP100311,IT Services,2026-08-31,0.0075,False,Not flagged
+CMP102665,Pharma,2026-08-31,0.0075,False,Not flagged
+CMP100384,IT Services,2026-08-31,0.0075,False,Not flagged
+CMP100387,FMCG,2026-08-31,0.0075,False,Not flagged
+CMP102100,Construction,2026-08-31,0.0074,False,Not flagged
+CMP101476,IT Services,2026-08-31,0.0074,False,Not flagged
+CMP101041,Construction,2026-08-31,0.0074,False,Not flagged
+CMP100899,Logistics,2026-08-31,0.0074,False,Not flagged
+CMP100310,IT Services,2026-08-31,0.0074,False,Not flagged
+CMP101906,IT Services,2026-08-31,0.0074,False,Not flagged
+CMP101992,Retail,2026-08-31,0.0073,False,Not flagged
+CMP102274,Pharma,2026-08-31,0.0073,False,Not flagged
+CMP100145,Retail,2026-08-31,0.0073,False,Not flagged
+CMP102664,IT Services,2026-08-31,0.0073,False,Not flagged
+CMP102639,Manufacturing,2026-08-31,0.0073,False,Not flagged
+CMP102500,Manufacturing,2026-08-31,0.0073,False,Not flagged
+CMP102358,FMCG,2026-08-31,0.0073,False,Not flagged
+CMP100395,IT Services,2026-08-31,0.0073,False,Not flagged
+CMP102188,Retail,2026-08-31,0.0073,False,Not flagged
+CMP101517,FMCG,2026-08-31,0.0072,False,Not flagged
+CMP101683,Retail,2026-08-31,0.0072,False,Not flagged
+CMP102829,Construction,2026-08-31,0.0072,False,Not flagged
+CMP100140,IT Services,2026-08-31,0.0072,False,Not flagged
+CMP101122,Pharma,2026-08-31,0.0072,False,Not flagged
+CMP102768,Pharma,2026-08-31,0.0072,False,Not flagged
+CMP100910,Construction,2026-08-31,0.0072,False,Not flagged
+CMP101273,Logistics,2026-08-31,0.0072,False,Not flagged
+CMP101987,Construction,2026-08-31,0.0072,False,Not flagged
+CMP102836,Construction,2026-08-31,0.0072,False,Not flagged
+CMP101489,IT Services,2026-08-31,0.0072,False,Not flagged
+CMP102070,Pharma,2026-08-31,0.0072,False,Not flagged
+CMP100732,Manufacturing,2026-08-31,0.0072,False,Not flagged
+CMP100627,Manufacturing,2026-08-31,0.0072,False,Not flagged
+CMP101255,Pharma,2026-08-31,0.0072,False,Not flagged
+CMP102330,Logistics,2026-08-31,0.0072,False,Not flagged
+CMP100001,IT Services,2026-08-31,0.0072,False,Not flagged
+CMP101930,Construction,2026-08-31,0.0071,False,Not flagged
+CMP100686,IT Services,2026-08-31,0.0071,False,Not flagged
+CMP101581,Retail,2026-08-31,0.0071,False,Not flagged
+CMP102524,FMCG,2026-08-31,0.0071,False,Not flagged
+CMP101123,Manufacturing,2026-08-31,0.0071,False,Not flagged
+CMP102796,Logistics,2026-08-31,0.0071,False,Not flagged
+CMP100439,Logistics,2026-08-31,0.0071,False,Not flagged
+CMP100234,FMCG,2026-08-31,0.0071,False,Not flagged
+CMP102376,Pharma,2026-08-31,0.007,False,Not flagged
+CMP101550,Manufacturing,2026-08-31,0.007,False,Not flagged
+CMP101810,Retail,2026-08-31,0.007,False,Not flagged
+CMP100588,Manufacturing,2026-08-31,0.007,False,Not flagged
+CMP102924,Manufacturing,2026-08-31,0.007,False,Not flagged
+CMP101931,Logistics,2026-08-31,0.0069,False,Not flagged
+CMP100937,Manufacturing,2026-08-31,0.0069,False,Not flagged
+CMP101481,Manufacturing,2026-08-31,0.0069,False,Not flagged
+CMP101625,Construction,2026-08-31,0.0069,False,Not flagged
+CMP101303,Retail,2026-08-31,0.0069,False,Not flagged
+CMP100873,IT Services,2026-08-31,0.0069,False,Not flagged
+CMP101839,Construction,2026-08-31,0.0069,False,Not flagged
+CMP100812,FMCG,2026-08-31,0.0069,False,Not flagged
+CMP102097,IT Services,2026-08-31,0.0069,False,Not flagged
+CMP102921,Manufacturing,2026-08-31,0.0069,False,Not flagged
+CMP100370,Construction,2026-08-31,0.0068,False,Not flagged
+CMP102231,Construction,2026-08-31,0.0068,False,Not flagged
+CMP100975,Logistics,2026-08-31,0.0068,False,Not flagged
+CMP101508,Manufacturing,2026-08-31,0.0068,False,Not flagged
+CMP102907,Manufacturing,2026-08-31,0.0068,False,Not flagged
+CMP100609,IT Services,2026-08-31,0.0068,False,Not flagged
+CMP102099,Retail,2026-08-31,0.0068,False,Not flagged
+CMP100286,Manufacturing,2026-08-31,0.0068,False,Not flagged
+CMP101368,Manufacturing,2026-08-31,0.0068,False,Not flagged
+CMP101254,Manufacturing,2026-08-31,0.0068,False,Not flagged
+CMP100156,Retail,2026-08-31,0.0068,False,Not flagged
+CMP102823,FMCG,2026-08-31,0.0068,False,Not flagged
+CMP102005,FMCG,2026-08-31,0.0068,False,Not flagged
+CMP102761,FMCG,2026-08-31,0.0068,False,Not flagged
+CMP101067,Construction,2026-08-31,0.0068,False,Not flagged
+CMP100108,Manufacturing,2026-08-31,0.0067,False,Not flagged
+CMP101963,Manufacturing,2026-08-31,0.0067,False,Not flagged
+CMP100013,Pharma,2026-08-31,0.0067,False,Not flagged
+CMP100665,Construction,2026-08-31,0.0067,False,Not flagged
+CMP102287,Construction,2026-08-31,0.0067,False,Not flagged
+CMP102415,Manufacturing,2026-08-31,0.0067,False,Not flagged
+CMP100048,Construction,2026-08-31,0.0067,False,Not flagged
+CMP101158,IT Services,2026-08-31,0.0067,False,Not flagged
+CMP101274,Manufacturing,2026-08-31,0.0067,False,Not flagged
+CMP100570,Retail,2026-08-31,0.0067,False,Not flagged
+CMP100259,Logistics,2026-08-31,0.0067,False,Not flagged
+CMP100432,Construction,2026-08-31,0.0067,False,Not flagged
+CMP102176,IT Services,2026-08-31,0.0067,False,Not flagged
+CMP102381,Retail,2026-08-31,0.0067,False,Not flagged
+CMP100778,Construction,2026-08-31,0.0066,False,Not flagged
+CMP102542,Retail,2026-08-31,0.0066,False,Not flagged
+CMP101527,IT Services,2026-08-31,0.0066,False,Not flagged
+CMP101703,Logistics,2026-08-31,0.0066,False,Not flagged
+CMP101885,Retail,2026-08-31,0.0066,False,Not flagged
+CMP101972,Construction,2026-08-31,0.0066,False,Not flagged
+CMP101867,Manufacturing,2026-08-31,0.0066,False,Not flagged
+CMP102849,IT Services,2026-08-31,0.0066,False,Not flagged
+CMP101066,IT Services,2026-08-31,0.0066,False,Not flagged
+CMP100607,Manufacturing,2026-08-31,0.0066,False,Not flagged
+CMP100239,Manufacturing,2026-08-31,0.0066,False,Not flagged
+CMP102669,IT Services,2026-08-31,0.0066,False,Not flagged
+CMP102183,Manufacturing,2026-08-31,0.0065,False,Not flagged
+CMP102153,Pharma,2026-08-31,0.0065,False,Not flagged
+CMP102316,Manufacturing,2026-08-31,0.0065,False,Not flagged
+CMP101237,IT Services,2026-08-31,0.0065,False,Not flagged
+CMP102772,FMCG,2026-08-31,0.0065,False,Not flagged
+CMP101842,Manufacturing,2026-08-31,0.0065,False,Not flagged
+CMP100083,Manufacturing,2026-08-31,0.0065,False,Not flagged
+CMP102009,Construction,2026-08-31,0.0065,False,Not flagged
+CMP102347,Pharma,2026-08-31,0.0065,False,Not flagged
+CMP102300,FMCG,2026-08-31,0.0065,False,Not flagged
+CMP100386,Construction,2026-08-31,0.0065,False,Not flagged
+CMP102595,FMCG,2026-08-31,0.0065,False,Not flagged
+CMP101886,Manufacturing,2026-08-31,0.0064,False,Not flagged
+CMP101899,Manufacturing,2026-08-31,0.0064,False,Not flagged
+CMP101099,Manufacturing,2026-08-31,0.0064,False,Not flagged
+CMP102037,Manufacturing,2026-08-31,0.0064,False,Not flagged
+CMP101161,Construction,2026-08-31,0.0064,False,Not flagged
+CMP100350,Logistics,2026-08-31,0.0064,False,Not flagged
+CMP100212,Manufacturing,2026-08-31,0.0064,False,Not flagged
+CMP102568,Construction,2026-08-31,0.0063,False,Not flagged
+CMP102946,Retail,2026-08-31,0.0063,False,Not flagged
+CMP102838,IT Services,2026-08-31,0.0063,False,Not flagged
+CMP101043,Construction,2026-08-31,0.0063,False,Not flagged
+CMP101524,Construction,2026-08-31,0.0063,False,Not flagged
+CMP101115,Manufacturing,2026-08-31,0.0063,False,Not flagged
+CMP102470,IT Services,2026-08-31,0.0063,False,Not flagged
+CMP102667,Manufacturing,2026-08-31,0.0063,False,Not flagged
+CMP100343,Logistics,2026-08-31,0.0063,False,Not flagged
+CMP100957,IT Services,2026-08-31,0.0062,False,Not flagged
+CMP100185,Construction,2026-08-31,0.0062,False,Not flagged
+CMP101102,Pharma,2026-08-31,0.0062,False,Not flagged
+CMP102661,IT Services,2026-08-31,0.0062,False,Not flagged
+CMP102065,FMCG,2026-08-31,0.0062,False,Not flagged
+CMP102453,Pharma,2026-08-31,0.0062,False,Not flagged
+CMP100831,Logistics,2026-08-31,0.0062,False,Not flagged
+CMP100258,Manufacturing,2026-08-31,0.0062,False,Not flagged
+CMP100825,Manufacturing,2026-08-31,0.0062,False,Not flagged
+CMP100392,Logistics,2026-08-31,0.0062,False,Not flagged
+CMP100408,Manufacturing,2026-08-31,0.0062,False,Not flagged
+CMP101642,IT Services,2026-08-31,0.0062,False,Not flagged
+CMP101671,Logistics,2026-08-31,0.0062,False,Not flagged
+CMP102751,Construction,2026-08-31,0.0061,False,Not flagged
+CMP101310,IT Services,2026-08-31,0.0061,False,Not flagged
+CMP102505,Manufacturing,2026-08-31,0.0061,False,Not flagged
+CMP102268,Construction,2026-08-31,0.0061,False,Not flagged
+CMP101526,Retail,2026-08-31,0.0061,False,Not flagged
+CMP101518,Manufacturing,2026-08-31,0.0061,False,Not flagged
+CMP101554,Retail,2026-08-31,0.0061,False,Not flagged
+CMP100058,Manufacturing,2026-08-31,0.0061,False,Not flagged
+CMP101034,IT Services,2026-08-31,0.0061,False,Not flagged
+CMP100863,Logistics,2026-08-31,0.0061,False,Not flagged
+CMP101003,Manufacturing,2026-08-31,0.0061,False,Not flagged
+CMP102139,Pharma,2026-08-31,0.0061,False,Not flagged
+CMP101627,Manufacturing,2026-08-31,0.0061,False,Not flagged
+CMP102978,Construction,2026-08-31,0.0061,False,Not flagged
+CMP101802,Manufacturing,2026-08-31,0.006,False,Not flagged
+CMP102729,FMCG,2026-08-31,0.006,False,Not flagged
+CMP100265,Manufacturing,2026-08-31,0.006,False,Not flagged
+CMP100765,Manufacturing,2026-08-31,0.006,False,Not flagged
+CMP100253,Retail,2026-08-31,0.006,False,Not flagged
+CMP102370,IT Services,2026-08-31,0.006,False,Not flagged
+CMP102996,Construction,2026-08-31,0.006,False,Not flagged
+CMP101211,Pharma,2026-08-31,0.006,False,Not flagged
+CMP101665,Pharma,2026-08-31,0.006,False,Not flagged
+CMP101013,FMCG,2026-08-31,0.006,False,Not flagged
+CMP101287,Retail,2026-08-31,0.006,False,Not flagged
+CMP102848,Construction,2026-08-31,0.0059,False,Not flagged
+CMP100986,Retail,2026-08-31,0.0059,False,Not flagged
+CMP102209,Manufacturing,2026-08-31,0.0059,False,Not flagged
+CMP101512,Logistics,2026-08-31,0.0059,False,Not flagged
+CMP101107,IT Services,2026-08-31,0.0059,False,Not flagged
+CMP101673,Manufacturing,2026-08-31,0.0059,False,Not flagged
+CMP101301,Logistics,2026-08-31,0.0059,False,Not flagged
+CMP102178,Retail,2026-08-31,0.0059,False,Not flagged
+CMP102184,Logistics,2026-08-31,0.0059,False,Not flagged
+CMP102455,Logistics,2026-08-31,0.0059,False,Not flagged
+CMP101005,IT Services,2026-08-31,0.0059,False,Not flagged
+CMP101213,IT Services,2026-08-31,0.0059,False,Not flagged
+CMP102851,IT Services,2026-08-31,0.0058,False,Not flagged
+CMP101222,FMCG,2026-08-31,0.0058,False,Not flagged
+CMP101797,Retail,2026-08-31,0.0058,False,Not flagged
+CMP101579,Pharma,2026-08-31,0.0058,False,Not flagged
+CMP100656,Pharma,2026-08-31,0.0058,False,Not flagged
+CMP101153,Manufacturing,2026-08-31,0.0058,False,Not flagged
+CMP102555,Construction,2026-08-31,0.0058,False,Not flagged
+CMP101171,Construction,2026-08-31,0.0058,False,Not flagged
+CMP100391,Manufacturing,2026-08-31,0.0058,False,Not flagged
+CMP102691,IT Services,2026-08-31,0.0058,False,Not flagged
+CMP101358,Construction,2026-08-31,0.0058,False,Not flagged
+CMP101256,Construction,2026-08-31,0.0057,False,Not flagged
+CMP101601,Manufacturing,2026-08-31,0.0057,False,Not flagged
+CMP100426,Retail,2026-08-31,0.0057,False,Not flagged
+CMP102813,Manufacturing,2026-08-31,0.0057,False,Not flagged
+CMP101186,IT Services,2026-08-31,0.0056,False,Not flagged
+CMP101207,IT Services,2026-08-31,0.0056,False,Not flagged
+CMP102985,Retail,2026-08-31,0.0056,False,Not flagged
+CMP102807,Construction,2026-08-31,0.0056,False,Not flagged
+CMP101751,Manufacturing,2026-08-31,0.0055,False,Not flagged
+CMP100772,Logistics,2026-08-31,0.0055,False,Not flagged
+CMP102936,Retail,2026-08-31,0.0055,False,Not flagged
+CMP100381,FMCG,2026-08-31,0.0055,False,Not flagged
+CMP102049,Retail,2026-08-31,0.0055,False,Not flagged
+CMP100984,Manufacturing,2026-08-31,0.0055,False,Not flagged
+CMP100023,FMCG,2026-08-31,0.0055,False,Not flagged
+CMP100162,Retail,2026-08-31,0.0055,False,Not flagged
+CMP101736,FMCG,2026-08-31,0.0055,False,Not flagged
+CMP102334,IT Services,2026-08-31,0.0055,False,Not flagged
+CMP101194,Pharma,2026-08-31,0.0054,False,Not flagged
+CMP102485,IT Services,2026-08-31,0.0054,False,Not flagged
+CMP101945,FMCG,2026-08-31,0.0054,False,Not flagged
+CMP101739,Construction,2026-08-31,0.0054,False,Not flagged
+CMP101898,Manufacturing,2026-08-31,0.0054,False,Not flagged
+CMP102180,Pharma,2026-08-31,0.0054,False,Not flagged
+CMP100484,Manufacturing,2026-08-31,0.0054,False,Not flagged
+CMP100110,IT Services,2026-08-31,0.0054,False,Not flagged
+CMP101389,Manufacturing,2026-08-31,0.0054,False,Not flagged
+CMP100928,Logistics,2026-08-31,0.0054,False,Not flagged
+CMP100438,Construction,2026-08-31,0.0054,False,Not flagged
+CMP100444,Retail,2026-08-31,0.0054,False,Not flagged
+CMP102081,Manufacturing,2026-08-31,0.0054,False,Not flagged
+CMP102413,Logistics,2026-08-31,0.0054,False,Not flagged
+CMP101649,Pharma,2026-08-31,0.0053,False,Not flagged
+CMP101266,Manufacturing,2026-08-31,0.0053,False,Not flagged
+CMP100781,FMCG,2026-08-31,0.0053,False,Not flagged
+CMP102683,Logistics,2026-08-31,0.0053,False,Not flagged
+CMP101708,Pharma,2026-08-31,0.0053,False,Not flagged
+CMP100629,Pharma,2026-08-31,0.0053,False,Not flagged
+CMP101637,FMCG,2026-08-31,0.0053,False,Not flagged
+CMP101548,Retail,2026-08-31,0.0053,False,Not flagged
+CMP100223,FMCG,2026-08-31,0.0053,False,Not flagged
+CMP101371,FMCG,2026-08-31,0.0053,False,Not flagged
+CMP100848,Manufacturing,2026-08-31,0.0053,False,Not flagged
+CMP101497,Logistics,2026-08-31,0.0053,False,Not flagged
+CMP102217,FMCG,2026-08-31,0.0052,False,Not flagged
+CMP100648,Construction,2026-08-31,0.0052,False,Not flagged
+CMP102177,Pharma,2026-08-31,0.0052,False,Not flagged
+CMP102591,FMCG,2026-08-31,0.0052,False,Not flagged
+CMP100518,Manufacturing,2026-08-31,0.0052,False,Not flagged
+CMP101399,IT Services,2026-08-31,0.0052,False,Not flagged
+CMP101407,Manufacturing,2026-08-31,0.0052,False,Not flagged
+CMP100581,Logistics,2026-08-31,0.0051,False,Not flagged
+CMP100424,Logistics,2026-08-31,0.0051,False,Not flagged
+CMP100796,Manufacturing,2026-08-31,0.0051,False,Not flagged
+CMP100358,IT Services,2026-08-31,0.0051,False,Not flagged
+CMP101815,Logistics,2026-08-31,0.0051,False,Not flagged
+CMP102409,FMCG,2026-08-31,0.0051,False,Not flagged
+CMP100463,Retail,2026-08-31,0.0051,False,Not flagged
+CMP100149,Manufacturing,2026-08-31,0.0051,False,Not flagged
+CMP102787,Logistics,2026-08-31,0.0051,False,Not flagged
+CMP102314,Retail,2026-08-31,0.0051,False,Not flagged
+CMP102088,Construction,2026-08-31,0.0051,False,Not flagged
+CMP101440,Retail,2026-08-31,0.0051,False,Not flagged
+CMP100205,Retail,2026-08-31,0.005,False,Not flagged
+CMP102712,Retail,2026-08-31,0.005,False,Not flagged
+CMP102218,FMCG,2026-08-31,0.005,False,Not flagged
+CMP100841,Pharma,2026-08-31,0.005,False,Not flagged
+CMP102169,IT Services,2026-08-31,0.005,False,Not flagged
+CMP102174,Retail,2026-08-31,0.005,False,Not flagged
+CMP102875,Manufacturing,2026-08-31,0.005,False,Not flagged
+CMP100643,Retail,2026-08-31,0.005,False,Not flagged
+CMP100536,Logistics,2026-08-31,0.005,False,Not flagged
+CMP100682,Manufacturing,2026-08-31,0.005,False,Not flagged
+CMP100916,Manufacturing,2026-08-31,0.005,False,Not flagged
+CMP102678,Construction,2026-08-31,0.005,False,Not flagged
+CMP100898,Manufacturing,2026-08-31,0.005,False,Not flagged
+CMP100213,Pharma,2026-08-31,0.0049,False,Not flagged
+CMP101416,Logistics,2026-08-31,0.0049,False,Not flagged
+CMP102997,Manufacturing,2026-08-31,0.0049,False,Not flagged
+CMP100964,FMCG,2026-08-31,0.0049,False,Not flagged
+CMP102703,Pharma,2026-08-31,0.0049,False,Not flagged
+CMP100224,Retail,2026-08-31,0.0049,False,Not flagged
+CMP101613,IT Services,2026-08-31,0.0049,False,Not flagged
+CMP101112,Logistics,2026-08-31,0.0049,False,Not flagged
+CMP101168,Pharma,2026-08-31,0.0048,False,Not flagged
+CMP102939,Manufacturing,2026-08-31,0.0048,False,Not flagged
+CMP100124,Manufacturing,2026-08-31,0.0048,False,Not flagged
+CMP101375,Manufacturing,2026-08-31,0.0048,False,Not flagged
+CMP101494,IT Services,2026-08-31,0.0048,False,Not flagged
+CMP101103,Pharma,2026-08-31,0.0048,False,Not flagged
+CMP101787,Construction,2026-08-31,0.0048,False,Not flagged
+CMP102371,Retail,2026-08-31,0.0048,False,Not flagged
+CMP102793,FMCG,2026-08-31,0.0048,False,Not flagged
+CMP100587,Retail,2026-08-31,0.0048,False,Not flagged
+CMP101002,Manufacturing,2026-08-31,0.0048,False,Not flagged
+CMP102136,Retail,2026-08-31,0.0048,False,Not flagged
+CMP102416,Retail,2026-08-31,0.0048,False,Not flagged
+CMP100879,Logistics,2026-08-31,0.0048,False,Not flagged
+CMP102586,Retail,2026-08-31,0.0048,False,Not flagged
+CMP101737,Manufacturing,2026-08-31,0.0048,False,Not flagged
+CMP102587,Manufacturing,2026-08-31,0.0048,False,Not flagged
+CMP102726,Pharma,2026-08-31,0.0048,False,Not flagged
+CMP102741,Pharma,2026-08-31,0.0048,False,Not flagged
+CMP100274,Construction,2026-08-31,0.0048,False,Not flagged
+CMP101620,Manufacturing,2026-08-31,0.0047,False,Not flagged
+CMP102414,IT Services,2026-08-31,0.0047,False,Not flagged
+CMP100348,Logistics,2026-08-31,0.0047,False,Not flagged
+CMP100735,Construction,2026-08-31,0.0047,False,Not flagged
+CMP101151,Pharma,2026-08-31,0.0047,False,Not flagged
+CMP101268,IT Services,2026-08-31,0.0047,False,Not flagged
+CMP101478,IT Services,2026-08-31,0.0047,False,Not flagged
+CMP101501,FMCG,2026-08-31,0.0047,False,Not flagged
+CMP101989,Manufacturing,2026-08-31,0.0047,False,Not flagged
+CMP101231,Logistics,2026-08-31,0.0047,False,Not flagged
+CMP102719,Logistics,2026-08-31,0.0046,False,Not flagged
+CMP101884,Retail,2026-08-31,0.0046,False,Not flagged
+CMP102480,IT Services,2026-08-31,0.0046,False,Not flagged
+CMP100014,IT Services,2026-08-31,0.0046,False,Not flagged
+CMP100808,IT Services,2026-08-31,0.0046,False,Not flagged
+CMP100489,Logistics,2026-08-31,0.0046,False,Not flagged
+CMP100267,Manufacturing,2026-08-31,0.0046,False,Not flagged
+CMP101582,IT Services,2026-08-31,0.0046,False,Not flagged
+CMP101615,Manufacturing,2026-08-31,0.0046,False,Not flagged
+CMP100568,Retail,2026-08-31,0.0046,False,Not flagged
+CMP102923,Construction,2026-08-31,0.0045,False,Not flagged
+CMP100065,Logistics,2026-08-31,0.0045,False,Not flagged
+CMP100084,Manufacturing,2026-08-31,0.0045,False,Not flagged
+CMP102877,IT Services,2026-08-31,0.0045,False,Not flagged
+CMP101723,Logistics,2026-08-31,0.0045,False,Not flagged
+CMP102602,IT Services,2026-08-31,0.0045,False,Not flagged
+CMP100138,Pharma,2026-08-31,0.0045,False,Not flagged
+CMP100278,Pharma,2026-08-31,0.0045,False,Not flagged
+CMP102422,Construction,2026-08-31,0.0045,False,Not flagged
+CMP101970,Retail,2026-08-31,0.0045,False,Not flagged
+CMP100451,FMCG,2026-08-31,0.0045,False,Not flagged
+CMP101684,Manufacturing,2026-08-31,0.0044,False,Not flagged
+CMP101748,IT Services,2026-08-31,0.0044,False,Not flagged
+CMP101952,Construction,2026-08-31,0.0044,False,Not flagged
+CMP102127,Retail,2026-08-31,0.0044,False,Not flagged
+CMP102317,Construction,2026-08-31,0.0044,False,Not flagged
+CMP102590,Construction,2026-08-31,0.0044,False,Not flagged
+CMP101523,Construction,2026-08-31,0.0044,False,Not flagged
+CMP102918,Manufacturing,2026-08-31,0.0043,False,Not flagged
+CMP102321,Manufacturing,2026-08-31,0.0043,False,Not flagged
+CMP100194,Manufacturing,2026-08-31,0.0043,False,Not flagged
+CMP101556,FMCG,2026-08-31,0.0043,False,Not flagged
+CMP100722,Manufacturing,2026-08-31,0.0043,False,Not flagged
+CMP100487,Retail,2026-08-31,0.0043,False,Not flagged
+CMP100342,Pharma,2026-08-31,0.0043,False,Not flagged
+CMP101656,Retail,2026-08-31,0.0043,False,Not flagged
+CMP102720,IT Services,2026-08-31,0.0043,False,Not flagged
+CMP100998,FMCG,2026-08-31,0.0042,False,Not flagged
+CMP101789,Manufacturing,2026-08-31,0.0042,False,Not flagged
+CMP100897,Manufacturing,2026-08-31,0.0042,False,Not flagged
+CMP102079,Manufacturing,2026-08-31,0.0042,False,Not flagged
+CMP100843,IT Services,2026-08-31,0.0042,False,Not flagged
+CMP102682,Manufacturing,2026-08-31,0.0042,False,Not flagged
+CMP100210,Construction,2026-08-31,0.0042,False,Not flagged
+CMP102035,Pharma,2026-08-31,0.0042,False,Not flagged
+CMP101190,IT Services,2026-08-31,0.0042,False,Not flagged
+CMP102831,IT Services,2026-08-31,0.0042,False,Not flagged
+CMP102390,Logistics,2026-08-31,0.0042,False,Not flagged
+CMP102055,IT Services,2026-08-31,0.0041,False,Not flagged
+CMP100658,Logistics,2026-08-31,0.0041,False,Not flagged
+CMP100511,Pharma,2026-08-31,0.0041,False,Not flagged
+CMP102058,Manufacturing,2026-08-31,0.0041,False,Not flagged
+CMP100628,Logistics,2026-08-31,0.0041,False,Not flagged
+CMP101674,Pharma,2026-08-31,0.0041,False,Not flagged
+CMP101818,IT Services,2026-08-31,0.004,False,Not flagged
+CMP102724,Manufacturing,2026-08-31,0.004,False,Not flagged
+CMP101208,Retail,2026-08-31,0.004,False,Not flagged
+CMP102484,Pharma,2026-08-31,0.004,False,Not flagged
+CMP102935,IT Services,2026-08-31,0.004,False,Not flagged
+CMP100817,Logistics,2026-08-31,0.004,False,Not flagged
+CMP101910,Manufacturing,2026-08-31,0.004,False,Not flagged
+CMP101858,Retail,2026-08-31,0.0039,False,Not flagged
+CMP102934,Construction,2026-08-31,0.0039,False,Not flagged
+CMP101322,Manufacturing,2026-08-31,0.0039,False,Not flagged
+CMP102233,FMCG,2026-08-31,0.0039,False,Not flagged
+CMP100353,Logistics,2026-08-31,0.0039,False,Not flagged
+CMP100508,IT Services,2026-08-31,0.0039,False,Not flagged
+CMP100297,Pharma,2026-08-31,0.0039,False,Not flagged
+CMP101976,IT Services,2026-08-31,0.0039,False,Not flagged
+CMP101058,Logistics,2026-08-31,0.0039,False,Not flagged
+CMP101850,Retail,2026-08-31,0.0038,False,Not flagged
+CMP102472,Construction,2026-08-31,0.0038,False,Not flagged
+CMP101347,Retail,2026-08-31,0.0038,False,Not flagged
+CMP100078,Logistics,2026-08-31,0.0038,False,Not flagged
+CMP100947,Pharma,2026-08-31,0.0038,False,Not flagged
+CMP101547,Construction,2026-08-31,0.0038,False,Not flagged
+CMP100685,Retail,2026-08-31,0.0038,False,Not flagged
+CMP100945,Retail,2026-08-31,0.0037,False,Not flagged
+CMP102344,Construction,2026-08-31,0.0037,False,Not flagged
+CMP101419,FMCG,2026-08-31,0.0037,False,Not flagged
+CMP101057,Manufacturing,2026-08-31,0.0037,False,Not flagged
+CMP102966,Retail,2026-08-31,0.0037,False,Not flagged
+CMP102894,FMCG,2026-08-31,0.0037,False,Not flagged
+CMP100598,FMCG,2026-08-31,0.0037,False,Not flagged
+CMP102949,Pharma,2026-08-31,0.0037,False,Not flagged
+CMP101285,FMCG,2026-08-31,0.0037,False,Not flagged
+CMP102054,Retail,2026-08-31,0.0037,False,Not flagged
+CMP102964,Retail,2026-08-31,0.0036,False,Not flagged
+CMP101824,Construction,2026-08-31,0.0036,False,Not flagged
+CMP101803,Construction,2026-08-31,0.0036,False,Not flagged
+CMP101369,Retail,2026-08-31,0.0036,False,Not flagged
+CMP100908,Retail,2026-08-31,0.0036,False,Not flagged
+CMP100422,Manufacturing,2026-08-31,0.0036,False,Not flagged
+CMP101172,Retail,2026-08-31,0.0036,False,Not flagged
+CMP102903,FMCG,2026-08-31,0.0036,False,Not flagged
+CMP100074,Manufacturing,2026-08-31,0.0036,False,Not flagged
+CMP101189,Construction,2026-08-31,0.0036,False,Not flagged
+CMP100409,FMCG,2026-08-31,0.0035,False,Not flagged
+CMP102262,IT Services,2026-08-31,0.0035,False,Not flagged
+CMP102752,Pharma,2026-08-31,0.0035,False,Not flagged
+CMP101996,Retail,2026-08-31,0.0035,False,Not flagged
+CMP101662,Pharma,2026-08-31,0.0035,False,Not flagged
+CMP102974,IT Services,2026-08-31,0.0035,False,Not flagged
+CMP102429,Construction,2026-08-31,0.0035,False,Not flagged
+CMP101346,IT Services,2026-08-31,0.0035,False,Not flagged
+CMP102445,Logistics,2026-08-31,0.0035,False,Not flagged
+CMP101259,FMCG,2026-08-31,0.0035,False,Not flagged
+CMP102450,Construction,2026-08-31,0.0035,False,Not flagged
+CMP101840,Manufacturing,2026-08-31,0.0035,False,Not flagged
+CMP101449,Manufacturing,2026-08-31,0.0035,False,Not flagged
+CMP100441,Manufacturing,2026-08-31,0.0035,False,Not flagged
+CMP102911,Manufacturing,2026-08-31,0.0034,False,Not flagged
+CMP102769,FMCG,2026-08-31,0.0034,False,Not flagged
+CMP101717,Logistics,2026-08-31,0.0034,False,Not flagged
+CMP100306,IT Services,2026-08-31,0.0034,False,Not flagged
+CMP101101,Retail,2026-08-31,0.0034,False,Not flagged
+CMP100854,Manufacturing,2026-08-31,0.0034,False,Not flagged
+CMP100645,Pharma,2026-08-31,0.0034,False,Not flagged
+CMP101750,Construction,2026-08-31,0.0034,False,Not flagged
+CMP102474,Retail,2026-08-31,0.0033,False,Not flagged
+CMP102427,Construction,2026-08-31,0.0033,False,Not flagged
+CMP101530,Retail,2026-08-31,0.0033,False,Not flagged
+CMP102861,Logistics,2026-08-31,0.0033,False,Not flagged
+CMP100576,FMCG,2026-08-31,0.0033,False,Not flagged
+CMP100006,Construction,2026-08-31,0.0033,False,Not flagged
+CMP102608,Construction,2026-08-31,0.0032,False,Not flagged
+CMP102393,Manufacturing,2026-08-31,0.0032,False,Not flagged
+CMP102963,Logistics,2026-08-31,0.0032,False,Not flagged
+CMP100906,IT Services,2026-08-31,0.0032,False,Not flagged
+CMP100995,IT Services,2026-08-31,0.0032,False,Not flagged
+CMP101453,FMCG,2026-08-31,0.0032,False,Not flagged
+CMP101357,IT Services,2026-08-31,0.0031,False,Not flagged
+CMP101364,IT Services,2026-08-31,0.0031,False,Not flagged
+CMP101793,Construction,2026-08-31,0.0031,False,Not flagged
+CMP102789,IT Services,2026-08-31,0.0031,False,Not flagged
+CMP102478,IT Services,2026-08-31,0.0031,False,Not flagged
+CMP101921,Retail,2026-08-31,0.0031,False,Not flagged
+CMP101697,Pharma,2026-08-31,0.0031,False,Not flagged
+CMP101233,Construction,2026-08-31,0.0031,False,Not flagged
+CMP100507,Pharma,2026-08-31,0.0031,False,Not flagged
+CMP100417,Construction,2026-08-31,0.003,False,Not flagged
+CMP102210,FMCG,2026-08-31,0.003,False,Not flagged
+CMP101659,Manufacturing,2026-08-31,0.003,False,Not flagged
+CMP100867,Pharma,2026-08-31,0.003,False,Not flagged
+CMP101110,Manufacturing,2026-08-31,0.003,False,Not flagged
+CMP100112,Retail,2026-08-31,0.003,False,Not flagged
+CMP100088,Manufacturing,2026-08-31,0.003,False,Not flagged
+CMP100972,Manufacturing,2026-08-31,0.003,False,Not flagged
+CMP101402,FMCG,2026-08-31,0.003,False,Not flagged
+CMP100208,Manufacturing,2026-08-31,0.0029,False,Not flagged
+CMP100322,Retail,2026-08-31,0.0029,False,Not flagged
+CMP102572,Construction,2026-08-31,0.0029,False,Not flagged
+CMP102716,IT Services,2026-08-31,0.0029,False,Not flagged
+CMP102735,IT Services,2026-08-31,0.0029,False,Not flagged
+CMP101026,FMCG,2026-08-31,0.0028,False,Not flagged
+CMP102305,Retail,2026-08-31,0.0028,False,Not flagged
+CMP102694,Pharma,2026-08-31,0.0028,False,Not flagged
+CMP100569,Logistics,2026-08-31,0.0028,False,Not flagged
+CMP101690,Pharma,2026-08-31,0.0028,False,Not flagged
+CMP102708,Manufacturing,2026-08-31,0.0028,False,Not flagged
+CMP102599,FMCG,2026-08-31,0.0028,False,Not flagged
+CMP102619,FMCG,2026-08-31,0.0028,False,Not flagged
+CMP100211,Logistics,2026-08-31,0.0028,False,Not flagged
+CMP101681,Pharma,2026-08-31,0.0028,False,Not flagged
+CMP100180,FMCG,2026-08-31,0.0028,False,Not flagged
+CMP101175,Construction,2026-08-31,0.0028,False,Not flagged
+CMP101335,Pharma,2026-08-31,0.0028,False,Not flagged
+CMP101393,Manufacturing,2026-08-31,0.0028,False,Not flagged
+CMP101932,Construction,2026-08-31,0.0028,False,Not flagged
+CMP101811,IT Services,2026-08-31,0.0027,False,Not flagged
+CMP100948,Pharma,2026-08-31,0.0027,False,Not flagged
+CMP102372,Retail,2026-08-31,0.0027,False,Not flagged
+CMP102684,Retail,2026-08-31,0.0027,False,Not flagged
+CMP102840,Pharma,2026-08-31,0.0027,False,Not flagged
+CMP102888,Manufacturing,2026-08-31,0.0027,False,Not flagged
+CMP100035,Manufacturing,2026-08-31,0.0027,False,Not flagged
+CMP100589,Manufacturing,2026-08-31,0.0027,False,Not flagged
+CMP102994,Logistics,2026-08-31,0.0027,False,Not flagged
+CMP100646,Manufacturing,2026-08-31,0.0026,False,Not flagged
+CMP102887,FMCG,2026-08-31,0.0026,False,Not flagged
+CMP101730,FMCG,2026-08-31,0.0026,False,Not flagged
+CMP100415,Retail,2026-08-31,0.0026,False,Not flagged
+CMP101757,FMCG,2026-08-31,0.0026,False,Not flagged
+CMP102730,Manufacturing,2026-08-31,0.0026,False,Not flagged
+CMP100713,FMCG,2026-08-31,0.0026,False,Not flagged
+CMP101491,Pharma,2026-08-31,0.0026,False,Not flagged
+CMP100668,Retail,2026-08-31,0.0026,False,Not flagged
+CMP101167,Logistics,2026-08-31,0.0026,False,Not flagged
+CMP102402,Construction,2026-08-31,0.0026,False,Not flagged
+CMP101715,Construction,2026-08-31,0.0026,False,Not flagged
+CMP101343,Logistics,2026-08-31,0.0026,False,Not flagged
+CMP101967,Pharma,2026-08-31,0.0026,False,Not flagged
+CMP101459,IT Services,2026-08-31,0.0026,False,Not flagged
+CMP102241,Manufacturing,2026-08-31,0.0025,False,Not flagged
+CMP101571,Logistics,2026-08-31,0.0025,False,Not flagged
+CMP100430,FMCG,2026-08-31,0.0025,False,Not flagged
+CMP102868,FMCG,2026-08-31,0.0025,False,Not flagged
+CMP101436,Manufacturing,2026-08-31,0.0025,False,Not flagged
+CMP101297,Manufacturing,2026-08-31,0.0025,False,Not flagged
+CMP101727,Pharma,2026-08-31,0.0025,False,Not flagged
+CMP102343,Retail,2026-08-31,0.0025,False,Not flagged
+CMP101096,Manufacturing,2026-08-31,0.0025,False,Not flagged
+CMP100096,Retail,2026-08-31,0.0025,False,Not flagged
+CMP101473,IT Services,2026-08-31,0.0025,False,Not flagged
+CMP101045,Retail,2026-08-31,0.0025,False,Not flagged
+CMP100190,FMCG,2026-08-31,0.0024,False,Not flagged
+CMP102968,Logistics,2026-08-31,0.0024,False,Not flagged
+CMP101395,Manufacturing,2026-08-31,0.0024,False,Not flagged
+CMP100803,Logistics,2026-08-31,0.0024,False,Not flagged
+CMP101367,Manufacturing,2026-08-31,0.0024,False,Not flagged
+CMP101383,FMCG,2026-08-31,0.0024,False,Not flagged
+CMP102812,Construction,2026-08-31,0.0024,False,Not flagged
+CMP102022,Manufacturing,2026-08-31,0.0023,False,Not flagged
+CMP101870,Retail,2026-08-31,0.0023,False,Not flagged
+CMP100129,Logistics,2026-08-31,0.0023,False,Not flagged
+CMP102033,IT Services,2026-08-31,0.0023,False,Not flagged
+CMP100380,Logistics,2026-08-31,0.0023,False,Not flagged
+CMP102041,Pharma,2026-08-31,0.0023,False,Not flagged
+CMP100332,Construction,2026-08-31,0.0023,False,Not flagged
+CMP102535,Logistics,2026-08-31,0.0023,False,Not flagged
+CMP100247,IT Services,2026-08-31,0.0023,False,Not flagged
+CMP102947,Pharma,2026-08-31,0.0023,False,Not flagged
+CMP100521,IT Services,2026-08-31,0.0023,False,Not flagged
+CMP102717,FMCG,2026-08-31,0.0022,False,Not flagged
+CMP102401,Pharma,2026-08-31,0.0022,False,Not flagged
+CMP102471,Pharma,2026-08-31,0.0022,False,Not flagged
+CMP100033,IT Services,2026-08-31,0.0022,False,Not flagged
+CMP102080,IT Services,2026-08-31,0.0022,False,Not flagged
+CMP100593,Logistics,2026-08-31,0.0022,False,Not flagged
+CMP101328,Retail,2026-08-31,0.0022,False,Not flagged
+CMP101017,Pharma,2026-08-31,0.0021,False,Not flagged
+CMP100214,Construction,2026-08-31,0.0021,False,Not flagged
+CMP102355,Pharma,2026-08-31,0.0021,False,Not flagged
+CMP101562,FMCG,2026-08-31,0.0021,False,Not flagged
+CMP100419,FMCG,2026-08-31,0.0021,False,Not flagged
+CMP101593,IT Services,2026-08-31,0.0021,False,Not flagged
+CMP102771,Pharma,2026-08-31,0.0021,False,Not flagged
+CMP101882,IT Services,2026-08-31,0.0021,False,Not flagged
+CMP102529,Logistics,2026-08-31,0.0021,False,Not flagged
+CMP101391,Pharma,2026-08-31,0.0021,False,Not flagged
+CMP102391,Construction,2026-08-31,0.002,False,Not flagged
+CMP101250,Manufacturing,2026-08-31,0.002,False,Not flagged
+CMP100479,IT Services,2026-08-31,0.002,False,Not flagged
+CMP102336,Pharma,2026-08-31,0.002,False,Not flagged
+CMP101610,Retail,2026-08-31,0.002,False,Not flagged
+CMP101872,FMCG,2026-08-31,0.002,False,Not flagged
+CMP101958,Pharma,2026-08-31,0.002,False,Not flagged
+CMP100443,Manufacturing,2026-08-31,0.0019,False,Not flagged
+CMP102200,Manufacturing,2026-08-31,0.0019,False,Not flagged
+CMP101286,IT Services,2026-08-31,0.0019,False,Not flagged
+CMP100226,Manufacturing,2026-08-31,0.0019,False,Not flagged
+CMP101009,IT Services,2026-08-31,0.0019,False,Not flagged
+CMP101538,Pharma,2026-08-31,0.0019,False,Not flagged
+CMP102562,Construction,2026-08-31,0.0019,False,Not flagged
+CMP100880,IT Services,2026-08-31,0.0019,False,Not flagged
+CMP102698,IT Services,2026-08-31,0.0018,False,Not flagged
+CMP101071,Logistics,2026-08-31,0.0018,False,Not flagged
+CMP101466,IT Services,2026-08-31,0.0018,False,Not flagged
+CMP102528,Pharma,2026-08-31,0.0018,False,Not flagged
+CMP101162,Pharma,2026-08-31,0.0018,False,Not flagged
+CMP100288,Logistics,2026-08-31,0.0018,False,Not flagged
+CMP102680,Pharma,2026-08-31,0.0018,False,Not flagged
+CMP102047,Logistics,2026-08-31,0.0018,False,Not flagged
+CMP100406,Retail,2026-08-31,0.0018,False,Not flagged
+CMP100653,Retail,2026-08-31,0.0017,False,Not flagged
+CMP101046,Manufacturing,2026-08-31,0.0017,False,Not flagged
+CMP100887,Manufacturing,2026-08-31,0.0017,False,Not flagged
+CMP100320,FMCG,2026-08-31,0.0017,False,Not flagged
+CMP102093,Manufacturing,2026-08-31,0.0017,False,Not flagged
+CMP102709,Construction,2026-08-31,0.0017,False,Not flagged
+CMP100496,IT Services,2026-08-31,0.0017,False,Not flagged
+CMP101271,IT Services,2026-08-31,0.0017,False,Not flagged
+CMP101332,Logistics,2026-08-31,0.0017,False,Not flagged
+CMP100298,Construction,2026-08-31,0.0017,False,Not flagged
+CMP101095,IT Services,2026-08-31,0.0016,False,Not flagged
+CMP100822,Retail,2026-08-31,0.0016,False,Not flagged
+CMP102378,Manufacturing,2026-08-31,0.0016,False,Not flagged
+CMP100179,Construction,2026-08-31,0.0016,False,Not flagged
+CMP102282,Retail,2026-08-31,0.0016,False,Not flagged
+CMP100236,IT Services,2026-08-31,0.0016,False,Not flagged
+CMP101487,IT Services,2026-08-31,0.0016,False,Not flagged
+CMP102031,IT Services,2026-08-31,0.0016,False,Not flagged
+CMP102570,Manufacturing,2026-08-31,0.0016,False,Not flagged
+CMP102288,Manufacturing,2026-08-31,0.0016,False,Not flagged
+CMP102293,Retail,2026-08-31,0.0016,False,Not flagged
+CMP102539,IT Services,2026-08-31,0.0016,False,Not flagged
+CMP102310,FMCG,2026-08-31,0.0015,False,Not flagged
+CMP100364,Construction,2026-08-31,0.0015,False,Not flagged
+CMP102243,Retail,2026-08-31,0.0015,False,Not flagged
+CMP102124,IT Services,2026-08-31,0.0015,False,Not flagged
+CMP100202,IT Services,2026-08-31,0.0015,False,Not flagged
+CMP100434,Manufacturing,2026-08-31,0.0015,False,Not flagged
+CMP102705,IT Services,2026-08-31,0.0015,False,Not flagged
+CMP101433,Manufacturing,2026-08-31,0.0015,False,Not flagged
+CMP102359,Manufacturing,2026-08-31,0.0015,False,Not flagged
+CMP102551,IT Services,2026-08-31,0.0015,False,Not flagged
+CMP100543,FMCG,2026-08-31,0.0015,False,Not flagged
+CMP102920,FMCG,2026-08-31,0.0015,False,Not flagged
+CMP101192,Pharma,2026-08-31,0.0015,False,Not flagged
+CMP100992,Pharma,2026-08-31,0.0014,False,Not flagged
+CMP101920,IT Services,2026-08-31,0.0014,False,Not flagged
+CMP101928,Manufacturing,2026-08-31,0.0014,False,Not flagged
+CMP101060,FMCG,2026-08-31,0.0014,False,Not flagged
+CMP100953,Manufacturing,2026-08-31,0.0014,False,Not flagged
+CMP101826,IT Services,2026-08-31,0.0014,False,Not flagged
+CMP102148,Construction,2026-08-31,0.0014,False,Not flagged
+CMP102076,FMCG,2026-08-31,0.0014,False,Not flagged
+CMP101439,FMCG,2026-08-31,0.0014,False,Not flagged
+CMP100282,Retail,2026-08-31,0.0014,False,Not flagged
+CMP100034,IT Services,2026-08-31,0.0014,False,Not flagged
+CMP100020,Construction,2026-08-31,0.0014,False,Not flagged
+CMP102908,FMCG,2026-08-31,0.0014,False,Not flagged
+CMP100227,Logistics,2026-08-31,0.0014,False,Not flagged
+CMP102306,Logistics,2026-08-31,0.0014,False,Not flagged
+CMP102871,IT Services,2026-08-31,0.0014,False,Not flagged
+CMP102646,Construction,2026-08-31,0.0014,False,Not flagged
+CMP101212,Logistics,2026-08-31,0.0013,False,Not flagged
+CMP101390,FMCG,2026-08-31,0.0013,False,Not flagged
+CMP100281,Manufacturing,2026-08-31,0.0013,False,Not flagged
+CMP100295,FMCG,2026-08-31,0.0013,False,Not flagged
+CMP102873,Retail,2026-08-31,0.0013,False,Not flagged
+CMP102290,FMCG,2026-08-31,0.0013,False,Not flagged
+CMP100436,Manufacturing,2026-08-31,0.0013,False,Not flagged
+CMP100618,Manufacturing,2026-08-31,0.0013,False,Not flagged
+CMP101048,Pharma,2026-08-31,0.0012,False,Not flagged
+CMP100327,Logistics,2026-08-31,0.0012,False,Not flagged
+CMP100742,Pharma,2026-08-31,0.0012,False,Not flagged
+CMP101451,Logistics,2026-08-31,0.0012,False,Not flagged
+CMP100835,Logistics,2026-08-31,0.0012,False,Not flagged
+CMP100774,Manufacturing,2026-08-31,0.0012,False,Not flagged
+CMP102999,Manufacturing,2026-08-31,0.0012,False,Not flagged
+CMP100555,Retail,2026-08-31,0.0012,False,Not flagged
+CMP100229,Manufacturing,2026-08-31,0.0012,False,Not flagged
+CMP100396,Pharma,2026-08-31,0.0012,False,Not flagged
+CMP101304,Pharma,2026-08-31,0.0012,False,Not flagged
+CMP102700,Construction,2026-08-31,0.0012,False,Not flagged
+CMP101221,Manufacturing,2026-08-31,0.0012,False,Not flagged
+CMP102199,Construction,2026-08-31,0.0012,False,Not flagged
+CMP101658,IT Services,2026-08-31,0.0012,False,Not flagged
+CMP102852,Pharma,2026-08-31,0.0012,False,Not flagged
+CMP101062,Retail,2026-08-31,0.0012,False,Not flagged
+CMP101860,Logistics,2026-08-31,0.0011,False,Not flagged
+CMP100291,Manufacturing,2026-08-31,0.0011,False,Not flagged
+CMP101831,FMCG,2026-08-31,0.0011,False,Not flagged
+CMP102173,Manufacturing,2026-08-31,0.0011,False,Not flagged
+CMP102263,Manufacturing,2026-08-31,0.0011,False,Not flagged
+CMP100079,Pharma,2026-08-31,0.0011,False,Not flagged
+CMP100379,Construction,2026-08-31,0.0011,False,Not flagged
+CMP100940,Retail,2026-08-31,0.0011,False,Not flagged
+CMP102805,Retail,2026-08-31,0.0011,False,Not flagged
+CMP100158,Construction,2026-08-31,0.0011,False,Not flagged
+CMP100151,FMCG,2026-08-31,0.0011,False,Not flagged
+CMP102421,Manufacturing,2026-08-31,0.0011,False,Not flagged
+CMP102112,Manufacturing,2026-08-31,0.0011,False,Not flagged
+CMP101438,FMCG,2026-08-31,0.0011,False,Not flagged
+CMP100917,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP100123,IT Services,2026-08-31,0.001,False,Not flagged
+CMP101134,FMCG,2026-08-31,0.001,False,Not flagged
+CMP101502,IT Services,2026-08-31,0.001,False,Not flagged
+CMP102275,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP101503,IT Services,2026-08-31,0.001,False,Not flagged
+CMP101160,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP102855,FMCG,2026-08-31,0.001,False,Not flagged
+CMP100586,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP100313,Retail,2026-08-31,0.001,False,Not flagged
+CMP101195,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP101401,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP101889,IT Services,2026-08-31,0.001,False,Not flagged
+CMP100868,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP100271,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP100524,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP102441,Manufacturing,2026-08-31,0.001,False,Not flagged
+CMP101521,Logistics,2026-08-31,0.001,False,Not flagged
+CMP100126,Retail,2026-08-31,0.001,False,Not flagged
+CMP100574,Pharma,2026-08-31,0.0009,False,Not flagged
+CMP101966,Construction,2026-08-31,0.0009,False,Not flagged
+CMP101490,Manufacturing,2026-08-31,0.0009,False,Not flagged
+CMP100329,Retail,2026-08-31,0.0009,False,Not flagged
+CMP101314,Manufacturing,2026-08-31,0.0009,False,Not flagged
+CMP100819,Retail,2026-08-31,0.0009,False,Not flagged
+CMP100042,Construction,2026-08-31,0.0009,False,Not flagged
+CMP100427,Pharma,2026-08-31,0.0009,False,Not flagged
+CMP100352,Logistics,2026-08-31,0.0009,False,Not flagged
+CMP100757,FMCG,2026-08-31,0.0009,False,Not flagged
+CMP102403,FMCG,2026-08-31,0.0009,False,Not flagged
+CMP102325,FMCG,2026-08-31,0.0009,False,Not flagged
+CMP100758,Manufacturing,2026-08-31,0.0009,False,Not flagged
+CMP101590,Manufacturing,2026-08-31,0.0009,False,Not flagged
+CMP101961,IT Services,2026-08-31,0.0009,False,Not flagged
+CMP100579,Retail,2026-08-31,0.0009,False,Not flagged
+CMP101878,Logistics,2026-08-31,0.0009,False,Not flagged
+CMP101845,Logistics,2026-08-31,0.0009,False,Not flagged
+CMP101832,IT Services,2026-08-31,0.0009,False,Not flagged
+CMP101822,Logistics,2026-08-31,0.0009,False,Not flagged
+CMP100563,Logistics,2026-08-31,0.0008,False,Not flagged
+CMP101529,Retail,2026-08-31,0.0008,False,Not flagged
+CMP100865,FMCG,2026-08-31,0.0008,False,Not flagged
+CMP102407,Retail,2026-08-31,0.0008,False,Not flagged
+CMP102674,Logistics,2026-08-31,0.0008,False,Not flagged
+CMP101198,Retail,2026-08-31,0.0008,False,Not flagged
+CMP100175,Manufacturing,2026-08-31,0.0008,False,Not flagged
+CMP100602,FMCG,2026-08-31,0.0008,False,Not flagged
+CMP102697,Manufacturing,2026-08-31,0.0008,False,Not flagged
+CMP101262,Retail,2026-08-31,0.0008,False,Not flagged
+CMP100677,IT Services,2026-08-31,0.0008,False,Not flagged
+CMP100363,Manufacturing,2026-08-31,0.0008,False,Not flagged
+CMP102819,FMCG,2026-08-31,0.0008,False,Not flagged
+CMP100137,IT Services,2026-08-31,0.0008,False,Not flagged
+CMP100530,Construction,2026-08-31,0.0007,False,Not flagged
+CMP100106,IT Services,2026-08-31,0.0007,False,Not flagged
+CMP102237,Retail,2026-08-31,0.0007,False,Not flagged
+CMP102833,Pharma,2026-08-31,0.0007,False,Not flagged
+CMP100636,Construction,2026-08-31,0.0007,False,Not flagged
+CMP102353,Logistics,2026-08-31,0.0007,False,Not flagged
+CMP102418,Manufacturing,2026-08-31,0.0007,False,Not flagged
+CMP100257,Manufacturing,2026-08-31,0.0007,False,Not flagged
+CMP101412,Pharma,2026-08-31,0.0007,False,Not flagged
+CMP102019,IT Services,2026-08-31,0.0007,False,Not flagged
+CMP102465,Construction,2026-08-31,0.0007,False,Not flagged
+CMP101576,Pharma,2026-08-31,0.0007,False,Not flagged
+CMP101891,Construction,2026-08-31,0.0007,False,Not flagged
+CMP100005,FMCG,2026-08-31,0.0007,False,Not flagged
+CMP101825,Manufacturing,2026-08-31,0.0007,False,Not flagged
+CMP100176,IT Services,2026-08-31,0.0007,False,Not flagged
+CMP100523,Logistics,2026-08-31,0.0007,False,Not flagged
+CMP100046,IT Services,2026-08-31,0.0007,False,Not flagged
+CMP102881,Manufacturing,2026-08-31,0.0006,False,Not flagged
+CMP100056,IT Services,2026-08-31,0.0006,False,Not flagged
+CMP101272,IT Services,2026-08-31,0.0006,False,Not flagged
+CMP101290,IT Services,2026-08-31,0.0006,False,Not flagged
+CMP100069,IT Services,2026-08-31,0.0006,False,Not flagged
+CMP102624,Logistics,2026-08-31,0.0006,False,Not flagged
+CMP101817,IT Services,2026-08-31,0.0006,False,Not flagged
+CMP102462,Manufacturing,2026-08-31,0.0006,False,Not flagged
+CMP102020,Construction,2026-08-31,0.0006,False,Not flagged
+CMP102458,Retail,2026-08-31,0.0006,False,Not flagged
+CMP100027,Manufacturing,2026-08-31,0.0006,False,Not flagged
+CMP100039,Construction,2026-08-31,0.0006,False,Not flagged
+CMP100962,Manufacturing,2026-08-31,0.0006,False,Not flagged
+CMP101094,Logistics,2026-08-31,0.0006,False,Not flagged
+CMP101589,Manufacturing,2026-08-31,0.0006,False,Not flagged
+CMP102162,IT Services,2026-08-31,0.0006,False,Not flagged
+CMP100368,Retail,2026-08-31,0.0006,False,Not flagged
+CMP100620,Construction,2026-08-31,0.0006,False,Not flagged
+CMP100681,Manufacturing,2026-08-31,0.0006,False,Not flagged
+CMP102552,Construction,2026-08-31,0.0006,False,Not flagged
+CMP101252,Manufacturing,2026-08-31,0.0006,False,Not flagged
+CMP101918,Logistics,2026-08-31,0.0006,False,Not flagged
+CMP100635,Manufacturing,2026-08-31,0.0006,False,Not flagged
+CMP102319,FMCG,2026-08-31,0.0006,False,Not flagged
+CMP101954,FMCG,2026-08-31,0.0005,False,Not flagged
+CMP102550,Logistics,2026-08-31,0.0005,False,Not flagged
+CMP100043,Retail,2026-08-31,0.0005,False,Not flagged
+CMP102277,Manufacturing,2026-08-31,0.0005,False,Not flagged
+CMP102322,IT Services,2026-08-31,0.0005,False,Not flagged
+CMP101480,IT Services,2026-08-31,0.0005,False,Not flagged
+CMP100866,Pharma,2026-08-31,0.0005,False,Not flagged
+CMP100896,Retail,2026-08-31,0.0005,False,Not flagged
+CMP100204,Manufacturing,2026-08-31,0.0005,False,Not flagged
+CMP100221,IT Services,2026-08-31,0.0004,False,Not flagged
+CMP102138,Construction,2026-08-31,0.0004,False,Not flagged
+CMP100856,Construction,2026-08-31,0.0004,False,Not flagged
+CMP101365,Logistics,2026-08-31,0.0004,False,Not flagged
+CMP102027,IT Services,2026-08-31,0.0004,False,Not flagged
+CMP101505,IT Services,2026-08-31,0.0004,False,Not flagged
+CMP100492,Construction,2026-08-31,0.0004,False,Not flagged
+CMP101602,Construction,2026-08-31,0.0004,False,Not flagged
+CMP101636,IT Services,2026-08-31,0.0004,False,Not flagged

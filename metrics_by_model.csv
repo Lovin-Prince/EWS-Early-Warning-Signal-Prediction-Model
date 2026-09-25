@@ -1,0 +1,5 @@
+model,pr_auc,roc_auc,base_rate,precision,recall,fire_rate,lift,threshold,tier1_precision,tier1_recall,tier1_fire_rate
+Decision Tree (baseline),0.0427,0.6257,0.0218,0.0291,0.7279,0.5438,1.3386,0.2748,0.0561,0.2537,0.0985
+GBDT - snapshot only (no history),0.0654,0.7222,0.0218,0.0329,0.8015,0.5295,1.5137,0.0126,0.0744,0.3125,0.0914
+GBDT - default params,0.0549,0.7294,0.0218,0.0346,0.7978,0.5012,1.5919,0.0068,0.072,0.3309,0.1
+GBDT - time-series features (final),0.0595,0.7207,0.0218,0.0346,0.7941,0.4996,1.5896,0.0138,0.0719,0.3272,0.099
